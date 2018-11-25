@@ -7,7 +7,9 @@
     "details": {
       "artist": "5nizza",
       "title": "Весна",
-      "chords": "Am7 D7 Gm D#"
+      "chords": "Am7 D7 Gm D#",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -22,7 +24,9 @@
     "details": {
       "artist": "5nizza",
       "title": "Нева",
-      "chords": "D#m7-5 D+7 G# C#m"
+      "chords": "D#m7-5 D+7 G# C#m",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -37,7 +41,9 @@
     "details": {
       "artist": "5nizza",
       "title": "Я солдат",
-      "chords": "Em Am Em H7"
+      "chords": "Em Am Em H7",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -52,7 +58,9 @@
     "details": {
       "artist": "Alai Oli",
       "title": "Где мои крылья",
-      "chords": "Dm A# F A"
+      "chords": "Dm A# F A",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -66,7 +74,9 @@
     "details": {
       "artist": "Alai Oli",
       "title": "Дельфины",
-      "chords": "C#m H A G#m"
+      "chords": "C#m H A G#m",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -80,7 +90,9 @@
     "details": {
       "artist": "Alai Oli",
       "title": "Искры",
-      "chords": "(кап 4) Am .. Em .. F .. C Em"
+      "chords": "(кап 4) Am .. Em .. F .. C Em",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -94,7 +106,9 @@
     "details": {
       "artist": "Amy Macdonald",
       "title": "This Is The Life",
-      "chords": "(кап 4) Am F C Em"
+      "chords": "(кап 4) Am F C Em",
+      "chords_count": 6,
+      "complexity": 4
     },
     "tags": [
       "аккорды"
@@ -108,7 +122,9 @@
     "details": {
       "artist": "Anacondaz",
       "title": "Беляши",
-      "chords": "Em C G D"
+      "chords": "Em C G D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -122,7 +138,9 @@
     "details": {
       "artist": "Anacondaz",
       "title": "Поезда",
-      "chords": "C G Am F"
+      "chords": "C G Am F",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -136,7 +154,9 @@
     "details": {
       "artist": "Anacondaz",
       "title": "Факап",
-      "chords": "Am Dm E - F C G Am C .. G E Am (C)"
+      "chords": "Am Dm E - F C G Am C .. G E Am (C)",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -150,7 +170,9 @@
     "details": {
       "artist": "Anathema",
       "title": "Better Off Dead",
-      "chords": "A F A G .. A F C G - ?"
+      "chords": "A F A G .. A F C G - ?",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -164,7 +186,9 @@
     "details": {
       "artist": "Animal Jazz (Аффинаж)",
       "title": "Можешь лететь",
-      "chords": "Hm G F#"
+      "chords": "Hm G F#",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -178,7 +202,9 @@
     "details": {
       "artist": "Animal Jazz",
       "title": "Три полоски",
-      "chords": "Dm A# F - F Dm Am A#"
+      "chords": "Dm A# F - F Dm Am A#",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды"
@@ -192,7 +218,9 @@
     "details": {
       "artist": "Atlantida Project",
       "title": "Атлантида",
-      "chords": "Gm F G# D# (вступ) - Gm F G# D# - Cm D# Fm D# A#"
+      "chords": "Gm F G# D# (вступ) - Gm F G# D# - Cm D# Fm D# A#",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды"
@@ -206,7 +234,9 @@
     "details": {
       "artist": "Atlantida project",
       "title": "Гиперпространство",
-      "chords": "Am Am Em Am (x2) Am Am Em C G - Am Em C G"
+      "chords": "Am Am Em Am (x2) Am Am Em C G - Am Em C G",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды"
@@ -219,7 +249,9 @@
     "details": {
       "artist": "Billis Band",
       "title": "Уап-та-ду-ду-да",
-      "chords": "Em Gm Em A7 .. Em Cm C G - H Em"
+      "chords": "Em Gm Em A7 .. Em Cm C G - H Em",
+      "chords_count": 12,
+      "complexity": 10
     },
     "tags": [
       "аккорды"
@@ -233,7 +265,9 @@
     "details": {
       "artist": "Billy's Band",
       "title": "Поезд в огне (ft. Б. Гребенщиков)",
-      "chords": "Cm Fm G Cm"
+      "chords": "Cm Fm G Cm",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -248,7 +282,9 @@
     "details": {
       "artist": "Casual",
       "title": "Мама",
-      "chords": "Am .. C .. F .. Dm E7 - Am .. C .. F .. Dm E7 Am"
+      "chords": "Am .. C .. F .. Dm E7 - Am .. C .. F .. Dm E7 Am",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды"
@@ -262,7 +298,9 @@
     "details": {
       "artist": "Cranberries",
       "title": "Zombie",
-      "chords": "Em C G D"
+      "chords": "Em C G D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -276,7 +314,9 @@
     "details": {
       "artist": "Dust Heaven",
       "title": "Прозрачный человек",
-      "chords": "F#m A Hm D - F#m E Hm A"
+      "chords": "F#m A Hm D - F#m E Hm A",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -290,7 +330,9 @@
     "details": {
       "artist": "Flёur",
       "title": "Железо поет",
-      "chords": "(кап 1) Em Am - C Hm Hm C .. C Hm Em G .. C Hm Em G"
+      "chords": "(кап 1) Em Am - C Hm Hm C .. C Hm Em G .. C Hm Em G",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -303,7 +345,9 @@
     "details": {
       "artist": "Flёur",
       "title": "Зов маяка",
-      "chords": "Am E F C (x2) - Cm F Cm F (x2)"
+      "chords": "Am E F C (x2) - Cm F Cm F (x2)",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -317,7 +361,9 @@
     "details": {
       "artist": "Flёur",
       "title": "Кто-то",
-      "chords": "Dm F Am (x2) .. Dm Am G F (x2) - Am Em .. C Dm"
+      "chords": "Dm F Am (x2) .. Dm Am G F (x2) - Am Em .. C Dm",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды"
@@ -331,7 +377,9 @@
     "details": {
       "artist": "Flёur",
       "title": "На обратной стороне луны",
-      "chords": "Em F# C (x4) .. Am D (x2) - Em C Am H (x2) .. C D C D .. Em C Am7 H"
+      "chords": "Em F# C (x4) .. Am D (x2) - Em C Am H (x2) .. C D C D .. Em C Am7 H",
+      "chords_count": 24,
+      "complexity": 22
     },
     "tags": [
       "аккорды"
@@ -345,7 +393,9 @@
     "details": {
       "artist": "Flёur",
       "title": "После кораблекрушения",
-      "chords": "Em C (x2) .. Am H (x2)"
+      "chords": "Em C (x2) .. Am H (x2)",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды"
@@ -359,7 +409,9 @@
     "details": {
       "artist": "Flёur",
       "title": "Сияние",
-      "chords": "Dm H (x4) .. Gm A (x2) - Dm H Gm A (x2) .. H Gm (x2)"
+      "chords": "Dm H (x4) .. Gm A (x2) - Dm H Gm A (x2) .. H Gm (x2)",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды"
@@ -373,20 +425,9 @@
     "details": {
       "artist": "Flёur",
       "title": "Теплые коты",
-      "chords": "Dm A# F .. Gm A# A(A7) - Dm A F A# .. Dm C F A#"
-    },
-    "tags": [
-      "аккорды"
-    ]
-  },
-  {
-    "title": "Flёur: аккорды, табулатуры, ноты, файлы guitar pro и midi",
-    "url": "http://svirg.fatal.ru/Fleur/",
-    "created": "2018-06-02T19:16:14.205Z",
-    "details": {
-      "artist": "",
-      "title": "",
-      "chords": ""
+      "chords": "Dm A# F .. Gm A# A(A7) - Dm A F A# .. Dm C F A#",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды"
@@ -400,7 +441,9 @@
     "details": {
       "artist": "Joan Osborne",
       "title": "One Of Us",
-      "chords": "Em C G D - C .. D"
+      "chords": "Em C G D - C .. D",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды",
@@ -415,7 +458,9 @@
     "details": {
       "artist": "Marilyn Manson",
       "title": "Sweet Dreams",
-      "chords": "(кап 3) Am F E"
+      "chords": "(кап 3) Am F E",
+      "chords_count": 5,
+      "complexity": 3
     },
     "tags": [
       "аккорды"
@@ -429,7 +474,9 @@
     "details": {
       "artist": "No Doubt",
       "title": "Don't Speak",
-      "chords": "(кап 2) Am Em Dm G .. Em Dm G .. Am Em Dm G .. Em Am Dm G .. .. C G A - Dm A# C A Gm A Dm .. Gm.A"
+      "chords": "(кап 2) Am Em Dm G .. Em Dm G .. Am Em Dm G .. Em Am Dm G .. .. C G A - Dm A# C A Gm A Dm .. Gm.A",
+      "chords_count": 35,
+      "complexity": 33
     },
     "tags": [
       "аккорды",
@@ -444,7 +491,9 @@
     "details": {
       "artist": "Noize MC",
       "title": "Выдыхай",
-      "chords": "Em C Em C - Am Hm Em - C D Hm Em - Em C D Hm Em C Hm - C G D Em"
+      "chords": "Em C Em C - Am Hm Em - C D Hm Em - Em C D Hm Em C Hm - C G D Em",
+      "chords_count": 26,
+      "complexity": 24
     },
     "tags": [
       "аккорды"
@@ -458,7 +507,9 @@
     "details": {
       "artist": "Noize MC",
       "title": "Кантемировская",
-      "chords": "Hm F#m E (D)"
+      "chords": "Hm F#m E (D)",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -472,7 +523,9 @@
     "details": {
       "artist": "Rihanna",
       "title": "Umbrella",
-      "chords": "F G Em Am - F C G Am"
+      "chords": "F G Em Am - F C G Am",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -486,7 +539,9 @@
     "details": {
       "artist": "Агата Кристи",
       "title": "А мы не ангелы",
-      "chords": "Em Dsus2 C D - Em D Am C D"
+      "chords": "Em Dsus2 C D - Em D Am C D",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды",
@@ -501,7 +556,9 @@
     "details": {
       "artist": "Агата Кристи",
       "title": "Два корабля",
-      "chords": "Am C Dm C .. Am C Dm E7 - Am Fm C (x2) .. G G7 .. C .. Am .. Dm .. H .. Am"
+      "chords": "Am C Dm C .. Am C Dm E7 - Am Fm C (x2) .. G G7 .. C .. Am .. Dm .. H .. Am",
+      "chords_count": 27,
+      "complexity": 25
     },
     "tags": [
       "аккорды",
@@ -516,7 +573,9 @@
     "details": {
       "artist": "Агата Кристи",
       "title": "Как на войне",
-      "chords": "Am G C E"
+      "chords": "Am G C E",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -531,7 +590,9 @@
     "details": {
       "artist": "Агата Кристи",
       "title": "Сказочная тайга",
-      "chords": "Dm E7 A Dm .. A# Dm Em A .. Dm E7 Gm A .. Dm E7 Gm A - Dm Gm A F .. Dm G A Dm"
+      "chords": "Dm E7 A Dm .. A# Dm Em A .. Dm E7 Gm A .. Dm E7 Gm A - Dm Gm A F .. Dm G A Dm",
+      "chords_count": 29,
+      "complexity": 27
     },
     "tags": [
       "аккорды",
@@ -546,7 +607,9 @@
     "details": {
       "artist": "Адаптация",
       "title": "Голод",
-      "chords": "Dm Em Hm Em - G7 Hm C7 F#"
+      "chords": "Dm Em Hm Em - G7 Hm C7 F#",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -586,7 +649,9 @@
     "details": {
       "artist": "Адаптация",
       "title": "Про море",
-      "chords": "Am Dm E Am .. Am Dm G C - A7 Dm G C .. Am Dm E Am"
+      "chords": "Am Dm E Am .. Am Dm G C - A7 Dm G C .. Am Dm E Am",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -614,7 +679,9 @@
     "details": {
       "artist": "Адаптация",
       "title": "Шальные истины",
-      "chords": "Em Am H7 Em .. Em Am D G .. G C D D .. C H7 Em - Em Am .. D G H .. C Em .. Am H7"
+      "chords": "Em Am H7 Em .. Em Am D G .. G C D D .. C H7 Em - Em Am .. D G H .. C Em .. Am H7",
+      "chords_count": 31,
+      "complexity": 29
     },
     "tags": [
       "аккорды"
@@ -628,7 +695,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "500",
-      "chords": "Hm D G F# - E - G"
+      "chords": "Hm D G F# - E - G",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды"
@@ -642,7 +711,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "Аделаида",
-      "chords": "Hm F#m - Hm F#m Hm F#m D A Hm G' F#m D (Em7 F#m)"
+      "chords": "Hm F#m - Hm F#m Hm F#m D A Hm G' F#m D (Em7 F#m)",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды",
@@ -657,21 +728,25 @@
     "details": {
       "artist": "Аквариум",
       "title": "Белое Reggae",
-      "chords": "Hm G A F#m - Hm A F#m G"
+      "chords": "Hm G A F#m - Hm A F#m G",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
     ]
   },
   {
-    "title": "Аквариум - Волки да вороны, Em Am G H7 (x4) - G Hm (x2) - Em Am G H7 (x2) Am H7 Em Am G H7",
+    "title": "Аквариум - Волки да вороны, Em Am G H7 (x4) .. G Hm (x2) - Em Am G H7 (x2) .. Am H7 Em Am G H7",
     "url": "https://amdm.ru/akkordi/akvariym/16746/volki_da_voroni/",
     "text": "Em       Am          G         B7        Em  Am G B7\nМожет Бог, может просто эта ночь пахнет ладаном\nEm      Am          G    B7       Em Am G B7\nА кругом высокий лес, темен и замшел\nEm      Am        G          B7     Em Am G B7\nТо ли это благодать, то ли это засада нам\nEm Am       G               B7     Em Am G B7\nВесело на ощупь, да сквозняк на душе\nG                                      Bm\nВот идут с образами, с образами незнакомыми\nG                                     Bm\nДа светят им лампады из-под темной воды\nEm      Am              G            B7    Em   Am G B7\nЯ не помню, как мы встали, как мы вышли из комнаты\nAm                     B7                Em Am G B7\nТолько помню, что идти нам до теплой звезды\n\nEm       Am          G         B7      Em Am G B7\nВот стоит храм, высок да тьма под куполом\nEm       Am          G         B7     Em Am G B7\nПроглядели все глаза, да ни хрена не видать\nEm       Am          G         B7     Em Am G B7\nЯ поставил бы свечу, да все свечи куплены\nEm       Am          G         B7     Em Am G B7\nЗажег бы спирт на руке, да где ж его взять\nG                                      Bm\nА кругом лежат снега на все четыре стороны\nG                                      Bm\nЛегко по снегу босиком, если души чисты\nEm       Am          G         B7     Em Am G B7\nА мы пропали бы совсем, когда б не волки да вороны\nAm                     B7                Em Am G B7\nОни спросили: \"Вы куда? Небось до теплой звезды…\"\n\nEm       Am          G         B7     Em Am G B7\nНазолотили крестов, навтыкали где ни попадя\nEm       Am          G         B7     Em Am G B7\nДа променяли на вино один, который был дан\nEm       Am          G         B7     Em Am G B7\nА поутру с похмелья пошли к реке по воду\nEm       Am          G     B7 Em Am G B7\nА там вместо воды монгол-шудан\nG                                  Bm\nА мы хотели дать веселый знак ангелам\nG                                  Bm\nДа потеряли их из виду, заметая следы\nEm       Am          G         B7 Em Am G B7\nВот и вышло бы каждому по делам его\nAm                     B7     Em Am G B7\nЕсли бы не свет этой чистой звезды\n\nEm       Am          G         B7     Em Am G B7\nТак что ж нам делать, как нам петь, как не ради пустой руки\nEm       Am          G         B7     Em Am G B7\nА если нам не петь, то сгореть в пустоте\nEm       Am          G         B7     Em Am G B7\nА петь и не допеть, то за мной придут орлики\nEm       Am          G         B7 Em Am G B7\nСмелыми глазами да по мутной воде\nG                                      Bm\nТолько пусть они идут, я и сам птица черная\nG                                      Bm\nСмотри, мне некуда бежать – еще метр и льды\nEm       Am          G         B7     Em Am G B7\nТак я прикрою вас, а вы меня, волки да вороны\nAm                     B7            Em Am G B7\nЧто бы кто-нибудь дошел до чистой звезды\n\nEm       Am          G         B7     Em Am G B7\nТак и что теперь с того, что тьма под куполом\nEm       Am          G         B7     Em Am G B7\nЧто теперь с того, что ни хрена не видать\nEm       Am          G         B7     Em Am G B7\nИ что теперь с того, что все свечи куплены\nEm       Am          G         B7     Em Am G B7\nВедь если нет огня, мы знаем, где его взять\nG                                      Bm\nИ может правда, что нет путей, кроме торного,\nG                                      Bm\nИ нет рук для чудес, кроме тех, что чисты.\nEm       Am          G         B7     Em Am G B7\nА все равно нас грели только волки да вороны\nAm                     B7      Em Am G B7\nИ благословили нас до чистой звезды",
     "created": "2018-06-02T19:16:14.218Z",
     "details": {
       "artist": "Аквариум",
       "title": "Волки да вороны",
-      "chords": "Em Am G H7 (x4) - G Hm (x2) - Em Am G H7 (x2) Am H7 Em Am G H7"
+      "chords": "Em Am G H7 (x4) .. G Hm (x2) - Em Am G H7 (x2) .. Am H7 Em Am G H7",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды"
@@ -685,7 +760,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "Время наебениться",
-      "chords": "Dm Am E Am - G C Dm F"
+      "chords": "Dm Am E Am - G C Dm F",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -699,7 +776,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "Голубой Огонек",
-      "chords": "(Gm Dm A7 Dm) Dm A7 Dm .. Gm A7 Dm .. C7 G A7 Dm .. F C7 F D7 Gm .. Dm A7 Dm"
+      "chords": "(Gm Dm A7 Dm) Dm A7 Dm .. Gm A7 Dm .. C7 G A7 Dm .. F C7 F D7 Gm .. Dm A7 Dm",
+      "chords_count": 26,
+      "complexity": 24
     },
     "tags": [
       "аккорды"
@@ -713,7 +792,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "Движение в сторону весны",
-      "chords": "Em G Am C Hm (x2) .. C D Em (x2) C Em Am C Hm Em"
+      "chords": "Em G Am C Hm (x2) .. C D Em (x2) C Em Am C Hm Em",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды"
@@ -727,7 +808,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "Достоевский",
-      "chords": "Am E Am C G C .. F G C Am E Am - Dm Am E Am"
+      "chords": "Am E Am C G C .. F G C Am E Am - Dm Am E Am",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды"
@@ -741,7 +824,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "Железнодорожная вода",
-      "chords": "D G A7 D (x2) Hm D#m G Em A7 G A7 D"
+      "chords": "D G A7 D (x2) Hm D#m G Em A7 G A7 D",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды"
@@ -755,7 +840,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "Любовь во время войны",
-      "chords": "Am Am Dm Dm/F E - A# Dm E - Dm/F C G Am"
+      "chords": "Am Am Dm Dm/F E - A# Dm E - Dm/F C G Am",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -769,7 +856,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "На ее стороне",
-      "chords": "Am F Em G (x2) C G Em F F Em G Am - C G F F C G Em F - D Am"
+      "chords": "Am F Em G (x2) C G Em F F Em G Am - C G F F C G Em F - D Am",
+      "chords_count": 25,
+      "complexity": 23
     },
     "tags": [
       "аккорды"
@@ -783,7 +872,9 @@
     "details": {
       "artist": "Аквариум",
       "title": "Плоскость",
-      "chords": "Dsus2 D .. A - G .. D .. A .. G"
+      "chords": "Dsus2 D .. A - G .. D .. A .. G",
+      "chords_count": 12,
+      "complexity": 10
     },
     "tags": [
       "аккорды"
@@ -797,7 +888,9 @@
     "details": {
       "artist": "Александр Башлачев",
       "title": "В чистом поле",
-      "chords": "Em Am Em Am - Am Em Hm Em"
+      "chords": "Em Am Em Am - Am Em Hm Em",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -811,7 +904,9 @@
     "details": {
       "artist": "Александр Башлачев",
       "title": "Время колокольчиков",
-      "chords": "Em C"
+      "chords": "Em C",
+      "chords_count": 2,
+      "complexity": 0
     },
     "tags": [
       "аккорды"
@@ -825,7 +920,9 @@
     "details": {
       "artist": "Александр Башлачев",
       "title": "Все от винта",
-      "chords": "Am (Am7) Em"
+      "chords": "Am (Am7) Em",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -839,7 +936,9 @@
     "details": {
       "artist": "Александр Башлачев",
       "title": "Минута молчания",
-      "chords": "Em Am D Em .. C G C D - Em G C .. D Am .. D G .. C D"
+      "chords": "Em Am D Em .. C G C D - Em G C .. D Am .. D G .. C D",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды"
@@ -853,7 +952,9 @@
     "details": {
       "artist": "Александр Башлачев",
       "title": "Осень",
-      "chords": "G Hm G Hm .. C Am G-D-Em C D G"
+      "chords": "G Hm G Hm .. C Am G-D-Em C D G",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -867,7 +968,9 @@
     "details": {
       "artist": "Александр Башлачев",
       "title": "Песня ржавой воды",
-      "chords": "Em Am G (x2) Am Hm Em (x4) - (посл) Am Hm Em"
+      "chords": "Em Am G (x2) Am Hm Em (x4) - (посл) Am Hm Em",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды"
@@ -881,7 +984,9 @@
     "details": {
       "artist": "Александр Башлачев",
       "title": "Сядем рядом",
-      "chords": "Em .. C .. Am C H"
+      "chords": "Em .. C .. Am C H",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды"
@@ -895,7 +1000,9 @@
     "details": {
       "artist": "Александр Башлачев",
       "title": "Тесто",
-      "chords": "Em Am Em (x2) H .. C"
+      "chords": "Em Am Em (x2) H .. C",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды"
@@ -909,7 +1016,9 @@
     "details": {
       "artist": "Александр Иванов",
       "title": "Боже, какой пустяк",
-      "chords": "F G F Em E - Dm7 G C Am - Am D Dm G C - Am D Dm F E"
+      "chords": "F G F Em E - Dm7 G C Am - Am D Dm G C - Am D Dm F E",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды",
@@ -924,7 +1033,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Ад",
-      "chords": "Hm G Em F# - G Em G F# - Hm G F#"
+      "chords": "Hm G Em F# - G Em G F# - Hm G F#",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды"
@@ -938,7 +1049,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Взыскание погибших",
-      "chords": "Em C Am D .. G H .. Em C Am D - Em C Am H .. F#m D Hm C#m F#m .. D Hm C# Dm E .. Am"
+      "chords": "Em C Am D .. G H .. Em C Am D - Em C Am H .. F#m D Hm C#m F#m .. D Hm C# Dm E .. Am",
+      "chords_count": 31,
+      "complexity": 29
     },
     "tags": [
       "аккорды"
@@ -952,7 +1065,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Дорога домой",
-      "chords": "Em D G .. Am Am/C H7 - Em C Am H7 - G D C D (x2) .. Em C Am H7"
+      "chords": "Em D G .. Am Am/C H7 - Em C Am H7 - G D C D (x2) .. Em C Am H7",
+      "chords_count": 23,
+      "complexity": 21
     },
     "tags": [
       "аккорды"
@@ -966,7 +1081,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Дороги свободы",
-      "chords": "Em Am D G - Am H7 Em C - Am H7 Em"
+      "chords": "Em Am D G - Am H7 Em C - Am H7 Em",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды"
@@ -980,7 +1097,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Ерофеевская",
-      "chords": "Em Am C Em .. G D Am C H7 .. Em Am C H7 Em .. .. Am H7 Em C .. C H7"
+      "chords": "Em Am C Em .. G D Am C H7 .. Em Am C H7 Em .. .. Am H7 Em C .. C H7",
+      "chords_count": 25,
+      "complexity": 23
     },
     "tags": [
       "аккорды"
@@ -993,7 +1112,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Жизнь за два часа до казни",
-      "chords": "Hm G Em F#"
+      "chords": "Hm G Em F#",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1007,7 +1128,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Конвейер",
-      "chords": "Em Am H7 (x2) .. Am D G H7 .. Em C Am H7 - G D Em (x2) .. Am C H7 .. Em Am H7"
+      "chords": "Em Am H7 (x2) .. Am D G H7 .. Em C Am H7 - G D Em (x2) .. Am C H7 .. Em Am H7",
+      "chords_count": 27,
+      "complexity": 25
     },
     "tags": [
       "аккорды"
@@ -1021,7 +1144,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Оскольская",
-      "chords": "Am Dm G C .. Em Am E Am - Dm Am E Am .. Dm Am E F"
+      "chords": "Am Dm G C .. Em Am E Am - Dm Am E Am .. Dm Am E F",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -1035,7 +1160,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Песенка для Шварца",
-      "chords": "Am Dm E Am .. Am Dm G C .. Dm Am E Am .. Am C E Am"
+      "chords": "Am Dm E Am .. Am Dm G C .. Dm Am E Am .. Am C E Am",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -1049,7 +1176,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Песня про Аркадия Ивановича Свидригайлова",
-      "chords": "Dm A Dm Dm A F .. Gm A7 Dm B .. Gm A7 Dm - F C F F G7 A7 .. Dm A Dm B .. Gm A Dm"
+      "chords": "Dm A Dm Dm A F .. Gm A7 Dm B .. Gm A7 Dm - F C F F G7 A7 .. Dm A Dm B .. Gm A Dm",
+      "chords_count": 31,
+      "complexity": 29
     },
     "tags": [
       "аккорды"
@@ -1063,7 +1192,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Посевная",
-      "chords": "G C E Am (x3) .. G C Dm E - Am F Dm E .. Am F Dm G .. C G Dm E .. Am F Dm E"
+      "chords": "G C E Am (x3) .. G C Dm E - Am F Dm E .. Am F Dm G .. C G Dm E .. Am F Dm E",
+      "chords_count": 30,
+      "complexity": 28
     },
     "tags": [
       "аккорды"
@@ -1077,7 +1208,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Свидригайловская банька",
-      "chords": "Dm E Am .. Dm G C .. Em E Am F .. Dm E Am (A) - Dm E Am F (x2) .. Am F Dm E"
+      "chords": "Dm E Am .. Dm G C .. Em E Am F .. Dm E Am (A) - Dm E Am F (x2) .. Am F Dm E",
+      "chords_count": 28,
+      "complexity": 26
     },
     "tags": [
       "аккорды"
@@ -1091,7 +1224,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Стикс",
-      "chords": "Dm A# A Dm - Dm A# Dm (x2) .. Dm Gm A A# .. Gm A Dm"
+      "chords": "Dm A# A Dm - Dm A# Dm (x2) .. Dm Gm A A# .. Gm A Dm",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды"
@@ -1105,7 +1240,9 @@
     "details": {
       "artist": "Александр Непомнящий",
       "title": "Странное ощущение свободы",
-      "chords": "Dm C A# A"
+      "chords": "Dm C A# A",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1133,7 +1270,9 @@
     "details": {
       "artist": "Александр Подорожный",
       "title": "\"Это не я\"",
-      "chords": "Em C G H"
+      "chords": "Em C G H",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1161,7 +1300,9 @@
     "details": {
       "artist": "Александр Розенбаум",
       "title": "За занавесочкою лжи",
-      "chords": "Dm Gm A7 Dm Gm C7 F - D7 - Gm A7 B Gm A7 Dm"
+      "chords": "Dm Gm A7 Dm Gm C7 F - D7 - Gm A7 B Gm A7 Dm",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды"
@@ -1175,7 +1316,9 @@
     "details": {
       "artist": "Александр Розенбаум",
       "title": "Обо мне не надо плакать",
-      "chords": "Am F Dm G C A7 - Dm E Am F Dm E Am"
+      "chords": "Am F Dm G C A7 - Dm E Am F Dm E Am",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды",
@@ -1190,7 +1333,9 @@
     "details": {
       "artist": "Александр Розенбаум",
       "title": "Одинокий волк",
-      "chords": "Am Dm7 E7 Am .. A7 Dm G E7"
+      "chords": "Am Dm7 E7 Am .. A7 Dm G E7",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -1204,7 +1349,9 @@
     "details": {
       "artist": "Алиса",
       "title": "Стерх",
-      "chords": "Em G C D (x2) .. Am .. Em .. Am Em C D"
+      "chords": "Em G C D (x2) .. Am .. Em .. Am Em C D",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -1218,7 +1365,9 @@
     "details": {
       "artist": "АлоэВера",
       "title": "Качели",
-      "chords": "F* (x-0-3-2-0-0) C* (0-3-2-0-0-0)"
+      "chords": "F* (x-0-3-2-0-0) C* (0-3-2-0-0-0)",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1232,7 +1381,9 @@
     "details": {
       "artist": "Амели На Мели",
       "title": "Пожалуйста",
-      "chords": "(кап 4) Am F G Em - Am Dm7 F Em (x2) .. Am F D Em .. Dm7 Dm7 F Em"
+      "chords": "(кап 4) Am F G Em - Am Dm7 F Em (x2) .. Am F D Em .. Dm7 Dm7 F Em",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды"
@@ -1259,7 +1410,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Андеграундный рай",
-      "chords": "Em C Am D"
+      "chords": "Em C Am D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1273,7 +1426,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Весенние Дни",
-      "chords": "Em C D"
+      "chords": "Em C D",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -1287,7 +1442,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Каждый шаг через больно",
-      "chords": "Am F E"
+      "chords": "Am F E",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -1301,7 +1458,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Камикадзе любви",
-      "chords": "Hm A Hm - F#m A Hm - Hm A Hm F# Hm A Hm"
+      "chords": "Hm A Hm - F#m A Hm - Hm A Hm F# Hm A Hm",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды"
@@ -1315,7 +1474,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Мыловар",
-      "chords": "Em C D"
+      "chords": "Em C D",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -1329,7 +1490,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "На хрена нам война",
-      "chords": "C F G C F G C - F G C F - C F G C"
+      "chords": "C F G C F G C - F G C F - C F G C",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды"
@@ -1343,7 +1506,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Не знаю я",
-      "chords": "Am Am7 Amsus - G Am - G D Am"
+      "chords": "Am Am7 Amsus - G Am - G D Am",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -1357,7 +1522,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Оборотень",
-      "chords": "Am G Am G E F E F - Am G F E"
+      "chords": "Am G Am G E F E F - Am G F E",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды"
@@ -1371,7 +1538,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Панихида по апрелю",
-      "chords": "A E F#m D"
+      "chords": "A E F#m D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1385,7 +1554,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Папоротник",
-      "chords": "E F D E"
+      "chords": "E F D E",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1399,7 +1570,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Про фольгу",
-      "chords": "Am F C G"
+      "chords": "Am F C G",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1413,7 +1586,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Сделай что-нибудь",
-      "chords": "Em C G D"
+      "chords": "Em C G D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1427,7 +1602,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Скорее пой",
-      "chords": "Am Dm G"
+      "chords": "Am Dm G",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -1441,7 +1618,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Сторона От",
-      "chords": "Em G D H7 - Am H G D - Em G D H7 - C H Em - G D H7 - Em G D H7"
+      "chords": "Em G D H7 - Am H G D - Em G D H7 - C H Em - G D H7 - Em G D H7",
+      "chords_count": 27,
+      "complexity": 25
     },
     "tags": [
       "аккорды"
@@ -1454,7 +1633,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "У попа была собака",
-      "chords": "Dm Am C G"
+      "chords": "Dm Am C G",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1468,7 +1649,9 @@
     "details": {
       "artist": "Арефьева Ольга",
       "title": "Флейта",
-      "chords": "Am F C G"
+      "chords": "Am F C G",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1496,7 +1679,9 @@
     "details": {
       "artist": "Ария",
       "title": "Осколок льда",
-      "chords": "Am C F G Am - F G Am F G C Am F G Dsus2"
+      "chords": "Am C F G Am - F G Am F G C Am F G Dsus2",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды",
@@ -1511,7 +1696,9 @@
     "details": {
       "artist": "АукцЫон",
       "title": "Зима",
-      "chords": "(кап 5) Am Dm .. C G Am E Am Dm - G Am Dm Em"
+      "chords": "(кап 5) Am Dm .. C G Am E Am Dm - G Am Dm Em",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды"
@@ -1525,7 +1712,9 @@
     "details": {
       "artist": "АукцЫон",
       "title": "Моя любовь",
-      "chords": "Dm E7 A7 (x2) .. Dm E7 E7 A7 A7 Dm"
+      "chords": "Dm E7 A7 (x2) .. Dm E7 E7 A7 A7 Dm",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -1539,7 +1728,9 @@
     "details": {
       "artist": "АукцЫон",
       "title": "Птица",
-      "chords": "C E - Am E E Am  .. F C E"
+      "chords": "C E - Am E E Am  .. F C E",
+      "chords_count": 12,
+      "complexity": 10
     },
     "tags": [
       "аккорды"
@@ -1553,7 +1744,9 @@
     "details": {
       "artist": "Аукцыон",
       "title": "Заведующий ВСЕМ!",
-      "chords": "Em C - Am H7 - C H7 Em Am H7"
+      "chords": "Em C - Am H7 - C H7 Em Am H7",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -1567,7 +1760,9 @@
     "details": {
       "artist": "Аукцыон",
       "title": "Летел и таял",
-      "chords": "(кап 5) Dm Dm Am A"
+      "chords": "(кап 5) Dm Dm Am A",
+      "chords_count": 6,
+      "complexity": 4
     },
     "tags": [
       "аккорды"
@@ -1581,7 +1776,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Балласт",
-      "chords": "Am Am7 Dm Dm7"
+      "chords": "Am Am7 Dm Dm7",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1595,7 +1792,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Волчком",
-      "chords": "Gm Cm Gm F"
+      "chords": "Gm Cm Gm F",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1609,7 +1808,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Вселенский рядовой",
-      "chords": "Am G - F G Em Am"
+      "chords": "Am G - F G Em Am",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды"
@@ -1623,7 +1824,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Всё Будет Отлично",
-      "chords": "Dm C A# A"
+      "chords": "Dm C A# A",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1637,7 +1840,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Герой Моих Детских Грёз",
-      "chords": "Hm G Em F#m"
+      "chords": "Hm G Em F#m",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1651,7 +1856,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Косманавт",
-      "chords": "Em .. C Am .. Em - C Am C Am Em"
+      "chords": "Em .. C Am .. Em - C Am C Am Em",
+      "chords_count": 12,
+      "complexity": 10
     },
     "tags": [
       "аккорды"
@@ -1672,14 +1879,16 @@
     ]
   },
   {
-    "title": "Аффинаж - Мечта, (кап. 4) Am Am C G",
+    "title": "Аффинаж - Мечта, (кап 4) Am Am C G",
     "url": "https://amdm.ru/akkordi/affinazh/136466/mechta/",
     "text": "Intro: Fm | Fm | G# | D#\n\nFm\nМечта,\nG#                    G#\nМелькая вдалеке, не оставляй меня.\nG#                    G#\nОставь свои следы, чтоб мог по ним идти...\nG#                    G#\nОкликни, если я остановлюсь в пути...\nG#                    G#\nМелькая вдалеке, не оставляй меня,\nFm\nмечта...\n\nFm\nМечта!\nG#                    G#\nВ холодной темноте на языке огня\nG#                    G#\nсо мной поговори, со мной поговори!..\nG#                    G#\nВсё знаешь про меня, знаешь, что внутри…\nG#                    G#\nМелькая в темноте, не оставляй меня,\nFm\nмечта!\n\nКода: Fm | Fm | G# | Cm    ",
     "created": "2018-06-25T19:54:47.848Z",
     "details": {
       "artist": "Аффинаж",
       "title": "Мечта",
-      "chords": "(кап. 4) Am Am C G"
+      "chords": "(кап 4) Am Am C G",
+      "chords_count": 6,
+      "complexity": 4
     },
     "tags": [
       "аккорды"
@@ -1693,7 +1902,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Не танцуй",
-      "chords": "(кап 2) Em C Am Hm"
+      "chords": "(кап 2) Em C Am Hm",
+      "chords_count": 6,
+      "complexity": 4
     },
     "tags": [
       "аккорды"
@@ -1707,7 +1918,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Неродившийся",
-      "chords": "Em C D Hm"
+      "chords": "Em C D Hm",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1721,7 +1934,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Пиджачок",
-      "chords": "Em C D Em - C D Hm Em - C D Hm Am Hm - C D Hm Am Hm Em"
+      "chords": "Em C D Em - C D Hm Em - C D Hm Am Hm - C D Hm Am Hm Em",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды"
@@ -1735,7 +1950,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Саша",
-      "chords": "(кап 4) Em C G D"
+      "chords": "(кап 4) Em C G D",
+      "chords_count": 6,
+      "complexity": 4
     },
     "tags": [
       "аккорды"
@@ -1749,7 +1966,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Сидней",
-      "chords": "(кап 3) C C Em Em Am Asus4 F G"
+      "chords": "(кап 3) C C Em Em Am Asus4 F G",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -1763,7 +1982,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Содом и Гоморра",
-      "chords": "F#m A E"
+      "chords": "F#m A E",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -1777,7 +1998,9 @@
     "details": {
       "artist": "Аффинаж",
       "title": "Солнце",
-      "chords": "(кап 4) Em D"
+      "chords": "(кап 4) Em D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1791,7 +2014,9 @@
     "details": {
       "artist": "Башаков Михаил",
       "title": "Мы никогда не умрем",
-      "chords": "Em C D Em - H (A#?) C D Em"
+      "chords": "Em C D Em - H (A#?) C D Em",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -1805,7 +2030,9 @@
     "details": {
       "artist": "Би-2",
       "title": "Мой рок-н-ролл",
-      "chords": "F G Am (G)"
+      "chords": "F G Am (G)",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -1820,7 +2047,9 @@
     "details": {
       "artist": "Би-2",
       "title": "Серебро",
-      "chords": "Am F Dm E Am - Dm E Am F Dm E"
+      "chords": "Am F Dm E Am - Dm E Am F Dm E",
+      "chords_count": 12,
+      "complexity": 10
     },
     "tags": [
       "аккорды",
@@ -1835,7 +2064,9 @@
     "details": {
       "artist": "Браво",
       "title": "Вася",
-      "chords": "Em G Am H7 - Em G C - Am Em - G"
+      "chords": "Em G Am H7 - Em G C - Am Em - G",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды",
@@ -1850,7 +2081,9 @@
     "details": {
       "artist": "Валентин Стрыкало",
       "title": "Кладбище самолетов",
-      "chords": "C G D (C) - C G D"
+      "chords": "C G D (C) - C G D",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды"
@@ -1864,7 +2097,9 @@
     "details": {
       "artist": "Веня Дыркин",
       "title": "Горизонтальная",
-      "chords": "G .. C7 D - G C7 G C7 G .. D C7 D .. G"
+      "chords": "G .. C7 D - G C7 G C7 G .. D C7 D .. G",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды"
@@ -1878,7 +2113,9 @@
     "details": {
       "artist": "Веня Дыркин",
       "title": "Маргарита",
-      "chords": "Am Dm Am Em (x2) .. F G C .. Dm Am Em Am"
+      "chords": "Am Dm Am Em (x2) .. F G C .. Dm Am Em Am",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -1892,7 +2129,9 @@
     "details": {
       "artist": "Веня Дыркин",
       "title": "Моя кровь",
-      "chords": "C E Am F-G .. C E Am F-G - C E Am F-G"
+      "chords": "C E Am F-G .. C E Am F-G - C E Am F-G",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -1906,7 +2145,9 @@
     "details": {
       "artist": "Веня Дыркин",
       "title": "Нибелунг",
-      "chords": "Am C Dm .. Am Asus4 .. Dm D7 Am F Dm E Am F G - C G Dm Am C G Dm Am Gm A7 (x2) Dm G F E .. Am"
+      "chords": "Am C Dm .. Am Asus4 .. Dm D7 Am F Dm E Am F G - C G Dm Am C G Dm Am Gm A7 (x2) Dm G F E .. Am",
+      "chords_count": 34,
+      "complexity": 32
     },
     "tags": [
       "аккорды"
@@ -1920,7 +2161,9 @@
     "details": {
       "artist": "Владимир Маркин",
       "title": "Колокола",
-      "chords": "Am H7 Em - Am D7 G E7 - Am7 D7 G C Am H7 Em"
+      "chords": "Am H7 Em - Am D7 G E7 - Am7 D7 G C Am H7 Em",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды",
@@ -1935,7 +2178,9 @@
     "details": {
       "artist": "Владимир Маркин",
       "title": "Сиреневый туман",
-      "chords": "Em Am H7 Em Am Em F# H7 Em"
+      "chords": "Em Am H7 Em Am Em F# H7 Em",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -1950,7 +2195,9 @@
     "details": {
       "artist": "Год Змеи",
       "title": "Если",
-      "chords": "(кап 2) Am C E Am - F C E Am"
+      "chords": "(кап 2) Am C E Am - F C E Am",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -1964,7 +2211,9 @@
     "details": {
       "artist": "Год змеи",
       "title": "2000 баксов",
-      "chords": "Am F C E"
+      "chords": "Am F C E",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -1979,7 +2228,9 @@
     "details": {
       "artist": "Год змеи",
       "title": "5 ml",
-      "chords": "Em C D Hm"
+      "chords": "Em C D Hm",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -1993,7 +2244,9 @@
     "details": {
       "artist": "Год змеи",
       "title": "7 жизней",
-      "chords": "Dm H F C Dm"
+      "chords": "Dm H F C Dm",
+      "chords_count": 5,
+      "complexity": 3
     },
     "tags": [
       "аккорды"
@@ -2007,7 +2260,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Белое безмолвие",
-      "chords": "Am Dm E7 Am - Am H Dm E7 - Am Dm G G7 C - Gm A7 Dm Dm6 E7 (E)"
+      "chords": "Am Dm E7 Am - Am H Dm E7 - Am Dm G G7 C - Gm A7 Dm Dm6 E7 (E)",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды"
@@ -2021,7 +2276,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Вперед",
-      "chords": "Hm G D A"
+      "chords": "Hm G D A",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -2035,7 +2292,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Грязный бинт",
-      "chords": "Hm G .. D Em F# - G F# Hm .. Hm Em (x2)"
+      "chords": "Hm G .. D Em F# - G F# Hm .. Hm Em (x2)",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -2049,21 +2308,25 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Еще немного",
-      "chords": "Em A G H - Em Am G H"
+      "chords": "Em A G H - Em Am G H",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
     ]
   },
   {
-    "title": "Гражданская Оборона - Заплата на заплате, (кап. 2) Em C Am H - Em Am H - Em D Am H",
+    "title": "Гражданская Оборона - Заплата на заплате, (кап 2) Em C Am H - Em Am H - Em D Am H",
     "url": "https://amdm.ru/akkordi/grajdanskaa_oborona/91534/zaplata_na_zaplate/",
     "text": "Вступление: F#m | D }x4 \n\nF#m\t   D\t    Bm\t      C#\nВырванная с корнем, вырванная с мясом,\nF#m\t   D\t    Bm\t      C#\nПойманная рыба постигает воздух.\nF#m\t   D\t    Bm\t      C#\nРаздирая жабры, истекая слизью -\nF#m\t   D\t    Bm\t      C#\nПотому что рыба, потому что надо.\n\nПрипев:\n\tF#m       Bm     C#        \n\tКомариный писк, лучезарный блеск,\n\tF#m       Bm     C#        \n\tГарантийный крест, ритуальный плач,\n\tF#m       Bm     C#        \n\tНепосильный грех, терпеливый Бог,\n\tF#m       Bm     C#        \n\tТерпеливый я. Так и есть — \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\nF#m\t   D\t    Bm\t      C#\nСорванные глотки, стреляные гильзы,\nF#m\t   D\t    Bm\t      C#\nПроданные деньги, грозные плакаты,\nF#m\t   D\t    Bm\t      C#\nДраные колени, липкие кровати,\nF#m\t   D\t    Bm\t      C#\nПойманная рыба постигает ветер.\n\nПрипев:\n\tF#m       Bm     C#        \n\tКомариный писк, лучезарный блеск,\n\tF#m       Bm     C#        \n\tГарантийный крест, ритуальный плач,\n\tF#m       Bm     C#        \n\tНепосильный грех, терпеливый Бог,\n\tF#m       Bm     C#        \n\tТерпеливый я. Так и есть — \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\nF#m\nРазрезая пуповину животной инерции,\nD\nТело отдает молодое тепло.\nBm\nОбъективная реальность нас целует в лоб,\nC#\nОхуевших узников нечистой совести,\nF#m\nСловарных жертв инстинктивной лжи,\nD\nХолостых посланников уебищной воли.\nBm\nТело отдает\nC#\nМолодое тепло.\nF#m\nДобровольное тело\t\nD\nОтпускает на волю черновые грехи\nBm\nПотаенные страхи, изощренные маты,\nC#\nУбедительные доводы, раззявые рты,\nF#m\nСдавленные ротики, \nD\nСухие догматы,\nBm\nПолитических позиций перезрелые финики.\nC\nЭто повод\nF#m\nЭто мерзкий повод повторять: \nD\n«вот так и живем», «вот так и живем»\nBm\n«Вот так и живем», «вот так и живем»\nC#\n«Вот так и живем», «вот так и живем»\n\nПрипев:\n\tF#m       Bm     C#        \n\tКомариный писк, лучезарный блеск,\n\tF#m       Bm     C#        \n\tГарантийный крест, ритуальный плач,\n\tF#m       Bm     C#        \n\tНепосильный грех, терпеливый Бог,\n\tF#m       Bm     C#        \n\tТерпеливый я. Так и есть — \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  \n\tF#m\t   E      Bm C#\n\tЗаплата на заплате  ",
     "created": "2018-06-07T06:20:14.099Z",
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Заплата на заплате",
-      "chords": "(кап. 2) Em C Am H - Em Am H - Em D Am H"
+      "chords": "(кап 2) Em C Am H - Em Am H - Em D Am H",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды"
@@ -2077,7 +2340,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Здорово и вечно",
-      "chords": "Am Cm Dm F.E7 - F Dm E7 .. Am Cm .. Dm F E7"
+      "chords": "Am Cm Dm F.E7 - F Dm E7 .. Am Cm .. Dm F E7",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды"
@@ -2091,7 +2356,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Зоопарк",
-      "chords": "G Em C D"
+      "chords": "G Em C D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -2106,7 +2373,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Мимикрия",
-      "chords": "F#m D E .. A Hm C# F#m - Hm A .. D C# F#m .. Hm A C# F#m"
+      "chords": "F#m D E .. A Hm C# F#m - Hm A .. D C# F#m .. Hm A C# F#m",
+      "chords_count": 20,
+      "complexity": 18
     },
     "tags": [
       "аккорды"
@@ -2120,7 +2389,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Моя оборона",
-      "chords": "Am F G H Em - C E - Am F C E"
+      "chords": "Am F G H Em - C E - Am F C E",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды",
@@ -2135,7 +2406,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "На наших глазах",
-      "chords": "C F G C - C Am F G"
+      "chords": "C F G C - C Am F G",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -2149,7 +2422,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Отряд не заметил потери бойца",
-      "chords": "Hm D Em F# Hm .. Hm D Em F# - Hm Em G F#"
+      "chords": "Hm D Em F# Hm .. Hm D Em F# - Hm Em G F#",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды"
@@ -2163,7 +2438,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Офелия",
-      "chords": "Dm G C F .. G Dm F A .. Dm G C F .. Dm Dm A A# - Dm A A# x3 A"
+      "chords": "Dm G C F .. G Dm F A .. Dm G C F .. Dm Dm A A# - Dm A A# x3 A",
+      "chords_count": 25,
+      "complexity": 23
     },
     "tags": [
       "аккорды"
@@ -2177,7 +2454,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Про дурачка",
-      "chords": "Hm A D F# - Hm Em F# Hm (F#)"
+      "chords": "Hm A D F# - Hm Em F# Hm (F#)",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -2191,7 +2470,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Русское поле экспериментов",
-      "chords": "Hm G Em F#"
+      "chords": "Hm G Em F#",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -2205,7 +2486,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Самоотвод",
-      "chords": "Em Am G H"
+      "chords": "Em Am G H",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -2219,7 +2502,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Сквозь дыру в моей голове",
-      "chords": "G Hm Am D (x2) C D G Em .. C D - G Hm Em C (x3) D"
+      "chords": "G Hm Am D (x2) C D G Em .. C D - G Hm Em C (x3) D",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -2233,7 +2518,9 @@
     "details": {
       "artist": "Гражданская Оборона",
       "title": "Туман",
-      "chords": "(кап 2) Hm F# Hm G A D .. Em A D F# - Em A D G .. Em A D F .. Em F Hm G .. Em F# Hm F#"
+      "chords": "(кап 2) Hm F# Hm G A D .. Em A D F# - Em A D G .. Em A D F .. Em F Hm G .. Em F# Hm F#",
+      "chords_count": 33,
+      "complexity": 31
     },
     "tags": [
       "аккорды"
@@ -2247,7 +2534,9 @@
     "details": {
       "artist": "Гуша Катушкин",
       "title": "Другие комнаты",
-      "chords": "Dm A# F C - A# A Dm G"
+      "chords": "Dm A# F C - A# A Dm G",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -2262,7 +2551,9 @@
     "details": {
       "artist": "ДДТ",
       "title": "Ветер",
-      "chords": "Em C Am D (вступ.) Em D Em C Am D (x2) .. Em C D (x3) .. Em C Am - D G .. D Em .. C G .. D G"
+      "chords": "Em C Am D (вступ.) Em D Em C Am D (x2) .. Em C D (x3) .. Em C Am - D G .. D Em .. C G .. D G",
+      "chords_count": 33,
+      "complexity": 31
     },
     "tags": [
       "аккорды",
@@ -2277,7 +2568,9 @@
     "details": {
       "artist": "ДДТ",
       "title": "Дождь",
-      "chords": "Em Am H7 (x2) Hm Am Hm C .. Hm Am H Em"
+      "chords": "Em Am H7 (x2) Hm Am Hm C .. Hm Am H Em",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды",
@@ -2292,7 +2585,9 @@
     "details": {
       "artist": "ДДТ",
       "title": "Метель Августа (Новое сердце)",
-      "chords": "D F# Hm G - D F# Hm G ... D F# G E"
+      "chords": "D F# Hm G - D F# Hm G ... D F# G E",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды",
@@ -2307,7 +2602,9 @@
     "details": {
       "artist": "ДДТ",
       "title": "Метель",
-      "chords": "Em C G D"
+      "chords": "Em C G D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -2322,7 +2619,9 @@
     "details": {
       "artist": "ДДТ",
       "title": "Осенняя",
-      "chords": "F G E Am - F G E"
+      "chords": "F G E Am - F G E",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды",
@@ -2337,7 +2636,9 @@
     "details": {
       "artist": "ДДТ",
       "title": "Ты не один",
-      "chords": "F#m D Hm C#"
+      "chords": "F#m D Hm C#",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -2352,7 +2653,9 @@
     "details": {
       "artist": "ДДТ",
       "title": "Это все",
-      "chords": "G D Em C D - G D Em C - G D C D"
+      "chords": "G D Em C D - G D Em C - G D C D",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды",
@@ -2367,7 +2670,9 @@
     "details": {
       "artist": "Дети Picasso",
       "title": "Как Будда (Снег...)",
-      "chords": "Em C D Em C Em C D - Em D C D - G D Em Am C D"
+      "chords": "Em C D Em C Em C D - Em D C D - G D Em Am C D",
+      "chords_count": 20,
+      "complexity": 18
     },
     "tags": [
       "аккорды"
@@ -2395,7 +2700,9 @@
     "details": {
       "artist": "Дягилева Янка",
       "title": "От большого ума",
-      "chords": "Hm A Em F# (x2) - H G E (x2)"
+      "chords": "Hm A Em F# (x2) - H G E (x2)",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -2409,7 +2716,9 @@
     "details": {
       "artist": "Дягилева Янка",
       "title": "Полкоролевства",
-      "chords": "Hm Em Hm Em - Hm Em Hm Em - Hm Em G F#"
+      "chords": "Hm Em Hm Em - Hm Em Hm Em - Hm Em G F#",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -2423,7 +2732,9 @@
     "details": {
       "artist": "Екатерина Яшникова",
       "title": "А.Д.",
-      "chords": "(кап 2) G Hm H Hm7 - D G D G"
+      "chords": "(кап 2) G Hm H Hm7 - D G D G",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -2437,7 +2748,9 @@
     "details": {
       "artist": "Екатерина Яшникова",
       "title": "Вернуться",
-      "chords": "Em Hm Am D - Em Hm C D"
+      "chords": "Em Hm Am D - Em Hm C D",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -2451,7 +2764,9 @@
     "details": {
       "artist": "Екатерина Яшникова",
       "title": "Миноры",
-      "chords": "Em Hm D A - G F# Hm D"
+      "chords": "Em Hm D A - G F# Hm D",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -2465,7 +2780,9 @@
     "details": {
       "artist": "Екатерина Яшникова",
       "title": "Не говори ему",
-      "chords": "Cm D# A# F - Cm D# Fm G"
+      "chords": "Cm D# A# F - Cm D# Fm G",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -2479,7 +2796,9 @@
     "details": {
       "artist": "Екатерина Яшникова",
       "title": "Ничего",
-      "chords": "Hm G F# G - G A F# Hm - G F# Hm D"
+      "chords": "Hm G F# G - G A F# Hm - G F# Hm D",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -2493,7 +2812,9 @@
     "details": {
       "artist": "Екатерина Яшникова",
       "title": "Партия В Шахматы",
-      "chords": "Hm Hm G F# - Hm D G F#"
+      "chords": "Hm Hm G F# - Hm D G F#",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -2507,7 +2828,9 @@
     "details": {
       "artist": "Екатерина Яшникова",
       "title": "Старый гимн площадей",
-      "chords": "Am F C Em - Am F Dm Dm7 Dsus Em - Am F C E - Am F C G E"
+      "chords": "Am F C Em - Am F Dm Dm7 Dsus Em - Am F C E - Am F C G E",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды",
@@ -2522,7 +2845,9 @@
     "details": {
       "artist": "Захар Май",
       "title": "Петр живет в тайге",
-      "chords": "Hm G A Hm"
+      "chords": "Hm G A Hm",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -2536,7 +2861,9 @@
     "details": {
       "artist": "Звери",
       "title": "До скорой встречи",
-      "chords": "Dm G Am (F) - Dm F E - F Dm G C - F Dm E"
+      "chords": "Dm G Am (F) - Dm F E - F Dm G C - F Dm E",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды",
@@ -2551,7 +2878,9 @@
     "details": {
       "artist": "Звери",
       "title": "Дожди-пистолеты",
-      "chords": "Am Dm E - Am F E - Dm F Am G"
+      "chords": "Am Dm E - Am F E - Dm F Am G",
+      "chords_count": 12,
+      "complexity": 10
     },
     "tags": [
       "аккорды",
@@ -2566,7 +2895,9 @@
     "details": {
       "artist": "Звери",
       "title": "Пингвины",
-      "chords": "Am Dm G Em (E) - Am F Dm E"
+      "chords": "Am Dm G Em (E) - Am F Dm E",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -2580,7 +2911,9 @@
     "details": {
       "artist": "Звери",
       "title": "Районы-кварталы",
-      "chords": "Am Dm E7 Am (x3) F Dm E7 Am - Am Dm E7 Am F Dm E Am"
+      "chords": "Am Dm E7 Am (x3) F Dm E7 Am - Am Dm E7 Am F Dm E Am",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды",
@@ -2595,7 +2928,9 @@
     "details": {
       "artist": "Звери",
       "title": "Тебе",
-      "chords": "Am G F E Am - G C Am F - G C Am F E Am F"
+      "chords": "Am G F E Am - G C Am F - G C Am F E Am F",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды"
@@ -2609,7 +2944,9 @@
     "details": {
       "artist": "Земфира",
       "title": "Ариведерчи",
-      "chords": "Dm E (x2) Am F Dm E (x2) - F G C (E) (x2) E Dm Fm - (турникет) Dm Fm Dm E Am F C Dm E Dm E"
+      "chords": "Dm E (x2) Am F Dm E (x2) - F G C (E) (x2) E Dm Fm - (турникет) Dm Fm Dm E Am F C Dm E Dm E",
+      "chords_count": 30,
+      "complexity": 28
     },
     "tags": [
       "аккорды",
@@ -2624,7 +2961,9 @@
     "details": {
       "artist": "Земфира",
       "title": "Бесконечность",
-      "chords": "Em Am C H7 - C D C Am D C - H7 C Em Am Em F#m Em G|H7"
+      "chords": "Em Am C H7 - C D C Am D C - H7 C Em Am Em F#m Em G|H7",
+      "chords_count": 20,
+      "complexity": 18
     },
     "tags": [
       "аккорды",
@@ -2639,7 +2978,9 @@
     "details": {
       "artist": "Земфира",
       "title": "Искала",
-      "chords": "Dm C G A Dm - F A F A F A G A"
+      "chords": "Dm C G A Dm - F A F A F A G A",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды популярные",
@@ -2654,7 +2995,9 @@
     "details": {
       "artist": "Земфира",
       "title": "П.М.М.Л.",
-      "chords": "Am/Asus G Am/Asus G - Dm Em Dm Em"
+      "chords": "Am/Asus G Am/Asus G - Dm Em Dm Em",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -2669,7 +3012,9 @@
     "details": {
       "artist": "Земфира",
       "title": "Прости меня, моя любовь",
-      "chords": "Am G Am G Dm G Em Dm E7"
+      "chords": "Am G Am G Dm G Em Dm E7",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -2684,7 +3029,9 @@
     "details": {
       "artist": "Зимовье Зверей",
       "title": "Одиссей и Навсикая",
-      "chords": "D G A7 F#m Hm Em A7 - D G F#m Hm Em A7"
+      "chords": "D G A7 F#m Hm Em A7 - D G F#m Hm Em A7",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -2698,7 +3045,9 @@
     "details": {
       "artist": "Зимовье Зверей",
       "title": "Самолет",
-      "chords": "Em C Am Hm Em - C Hm7 (x3) Am"
+      "chords": "Em C Am Hm Em - C Hm7 (x3) Am",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -2712,7 +3061,9 @@
     "details": {
       "artist": "Калинов Мост",
       "title": "Девочка летом",
-      "chords": "Dm .. G Dm (x2) - Dm A Dm"
+      "chords": "Dm .. G Dm (x2) - Dm A Dm",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -2727,7 +3078,9 @@
     "details": {
       "artist": "Калинов мост",
       "title": "Надоест нам суета",
-      "chords": "C H7 C Am - G Am G Am H7"
+      "chords": "C H7 C Am - G Am G Am H7",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -2741,21 +3094,25 @@
     "details": {
       "artist": "Кашин Павел",
       "title": "Арена",
-      "chords": "F#m Hm A C#"
+      "chords": "F#m Hm A C#",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
     ]
   },
   {
-    "title": "Кашин Павел - Барышня, Dm G(Gm) A (кап 2)",
+    "title": "Кашин Павел - Барышня, (кап 2) Dm G(Gm) A",
     "url": "https://mychords.net/kashin/64484-kashin-pavel-baryshnya.html",
     "text": "Вступление: Dm Gm A\n\n   Dm\nСолнце и плечи, ветер и волосы,\nВремя устало делится на полосы,\n Gm                       A\nЖизнь в обещании вечной весны.\n  Dm\nЯ сочиняю вам стихотворение,\nЯ начиняю его озарением.\n   Gm                              A\nБарышня, барышня, вы безвозвратно пьяны.\nВзято с сайта https://mychords.net\nДайте мне руку, нынче непросто\nХодить на мысочках по чистому воздуху\nВ метре от прокаженной земли.\nЯ обеспечу вам ваше парение\nТайными клятвами и увереньями,\nСолнце и ветер в бокале сухого шабли.\n\nПроигрыш = вступление\n\nСолнце и запахи белой акации,\nВ мае так сложно не впасть в левитацию,\nЖизнь в ощущении легкой вины.\nСвет всепрощения в миг восхищения,\nВ нем и скрывается суть обольщения.\nБарышня, барышня, вы несказанно бледны.\n\nБледная мимика скомканной грации,\nЯ обретаю удел декорации,\nЖизнь с ощущением легкой беды.\nБарышня, милая, ваши сомнения\nЛишь составляющая уравнения,\nЖизнь под лучами счастливой звезды.",
     "created": "2018-06-02T19:16:14.293Z",
     "details": {
       "artist": "Кашин Павел",
       "title": "Барышня",
-      "chords": "Dm G(Gm) A (кап 2)"
+      "chords": "(кап 2) Dm G(Gm) A",
+      "chords_count": 5,
+      "complexity": 3
     },
     "tags": [
       "аккорды"
@@ -2769,7 +3126,9 @@
     "details": {
       "artist": "Кашин Павел",
       "title": "Газеты пишут",
-      "chords": "Am F Dm C E - Dm E - Am F Dm E"
+      "chords": "Am F Dm C E - Dm E - Am F Dm E",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды"
@@ -2783,21 +3142,25 @@
     "details": {
       "artist": "Кашин Павел",
       "title": "Московская Одиссея",
-      "chords": "Dm Gm Dm B A7 - Gm A7 Dm B - Dm A7 Dm D7"
+      "chords": "Dm Gm Dm B A7 - Gm A7 Dm B - Dm A7 Dm D7",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды"
     ]
   },
   {
-    "title": "Кашин Павел - Над осеннею Москвой, Am Dm G C .. F Dm E Am (кап 3)",
+    "title": "Кашин Павел - Над осеннею Москвой, (кап 3) Am Dm G C .. F Dm E Am",
     "url": "https://mychords.net/kashin/88505-kashin-pavel-nad-osenneyu-moskvoj.html",
     "text": " Cm\nПо осеннему асфальту разбегались жемчуга-\n      Fm\nЭто будущий февраль так обозначил берега. \n           Bb\nИ с поломанным зонтом я изгибался на мосту -\n          Gm\nНе целованный фантом любви, забытый на посту.\n\n\n      G#\nЯ искал в себе спасенья, окунаясь с головой \n       Fm\nв тишину \"Седьмого неба\" над осеннею Москвой. \n          G                                                Cm\nЯ искал в себе спасенья над осеннею Москвой.\nВзято с сайта https://mychords.net\n\n\nСквозь меня ходили люди без сердечного огня.\n\nВ их глазах - коль ты не любишь - не задерживай меня!\n\nИ, сутулясь, исчезали в предрасстрельной тишине, \n\nоставляя мокрый след на обескровленной луне. \n\n\n\nЯ искал от них спасенья, окунаясь с головой \n\nв тишину \"Седьмого неба\" над осеннею Москвой.\n\nЯ искал от них спасенья над осеннею Москвой.\n\n            Cm Fm Bb Gm G# Fm G \nВзрыв: (та-та-та-ту-та-ту-та-ру-ра-ру)\n\n\nВремя вышло, и застыло, и упало с высоты.\n\nБезнадёжная усталость, сквозь меня шагала ты \n\nНе с пивной - а где-то рядом, два крыла, подбитых градом, \n\nволочились по фасадам, не теряя красоты.\n\n\n\nЯ нашёл в тебе спасенье, окунувшись с головой \n\nв тишину \"Седьмого неба\" над осеннею Москвой.\n\nВ тишину \"Седьмого неба\" над осеннею Москвой...\n\n            Cm Fm Bb Gm G# Fm G \nВзрыв: (та-та-та-ту-та-ту-та-ру-ра-ру)\n\n Cm\nПо осеннему асфальту разбегались жемчуга-\n      Fm                                               Cm\nЭто будущий февраль так обозначил берега.",
     "created": "2018-06-02T19:16:14.295Z",
     "details": {
       "artist": "Кашин Павел",
       "title": "Над осеннею Москвой",
-      "chords": "Am Dm G C .. F Dm E Am (кап 3)"
+      "chords": "(кап 3) Am Dm G C .. F Dm E Am",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -2811,7 +3174,9 @@
     "details": {
       "artist": "Кашин Павел",
       "title": "Пламенный посланник",
-      "chords": "Cm - Fm - G# G Cm"
+      "chords": "Cm - Fm - G# G Cm",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды"
@@ -2825,7 +3190,9 @@
     "details": {
       "artist": "Кашин Павел",
       "title": "Слепая любовь",
-      "chords": "Am Dm Am E Am - G7 - C E Am Dm Am - Am Dm Am E Am"
+      "chords": "Am Dm Am E Am - G7 - C E Am Dm Am - Am Dm Am E Am",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -2839,7 +3206,9 @@
     "details": {
       "artist": "Кашин Павел",
       "title": "Тает снег",
-      "chords": "Am Asus4 (x3) Dm Dm6 - Dm E Am F .. Dm E Am"
+      "chords": "Am Asus4 (x3) Dm Dm6 - Dm E Am F .. Dm E Am",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -2853,7 +3222,9 @@
     "details": {
       "artist": "Кино",
       "title": "Закрой за мной дверь я ухожу",
-      "chords": "Hm A F#m G"
+      "chords": "Hm A F#m G",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -2868,7 +3239,9 @@
     "details": {
       "artist": "Кино",
       "title": "Кукушка",
-      "chords": "(вступ. Am C G F) Am C G Dm Am - G F Am"
+      "chords": "(вступ. Am C G F) Am C G Dm Am - G F Am",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды",
@@ -2883,7 +3256,9 @@
     "details": {
       "artist": "Кино",
       "title": "Легенда",
-      "chords": "(кап 2) Am Em Am G .. C G Am Em"
+      "chords": "(кап 2) Am Em Am G .. C G Am Em",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды",
@@ -2898,7 +3273,9 @@
     "details": {
       "artist": "Кино",
       "title": "Муравейник",
-      "chords": "D A Hm G A - G A D Hm (D)"
+      "chords": "D A Hm G A - G A D Hm (D)",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды",
@@ -2913,7 +3290,9 @@
     "details": {
       "artist": "Кино",
       "title": "Нам с тобой",
-      "chords": "Em D Em D C D Em D .. Em D Em D Hm C - Em Am D (x3) Em Em Am D Em"
+      "chords": "Em D Em D C D Em D .. Em D Em D Hm C - Em Am D (x3) Em Em Am D Em",
+      "chords_count": 25,
+      "complexity": 23
     },
     "tags": [
       "аккорды",
@@ -2928,7 +3307,9 @@
     "details": {
       "artist": "Кино",
       "title": "Перемен",
-      "chords": "F#m A E F#m - Hm A E F#m"
+      "chords": "F#m A E F#m - Hm A E F#m",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -2943,7 +3324,9 @@
     "details": {
       "artist": "Кино",
       "title": "Последний герой",
-      "chords": "Em Hm G D"
+      "chords": "Em Hm G D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -2958,7 +3341,9 @@
     "details": {
       "artist": "Кино",
       "title": "Спокойная ночь",
-      "chords": "Am (Am7) G Dm Dm7 Am - F Em Am Am7 - F C G Am"
+      "chords": "Am (Am7) G Dm Dm7 Am - F Em Am Am7 - F C G Am",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды",
@@ -2973,7 +3358,9 @@
     "details": {
       "artist": "Комитет Охраны Тепла",
       "title": "Нoвый coлдaт",
-      "chords": "Dm Gm H A"
+      "chords": "Dm Gm H A",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -2987,7 +3374,9 @@
     "details": {
       "artist": "Коридор",
       "title": "Белый ворон",
-      "chords": "Am F C E .. Am F C G - Am Dm (x3) .. Am G"
+      "chords": "Am F C E .. Am F C G - Am Dm (x3) .. Am G",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды"
@@ -3001,7 +3390,9 @@
     "details": {
       "artist": "Король и Шут (КиШ)",
       "title": "Блуждают тени",
-      "chords": "G A Hm A G A D F# Hm G A D - G A D Hm G A D A# C A# C"
+      "chords": "G A Hm A G A D F# Hm G A D - G A D Hm G A D A# C A# C",
+      "chords_count": 24,
+      "complexity": 22
     },
     "tags": [
       "аккорды",
@@ -3016,7 +3407,9 @@
     "details": {
       "artist": "Король и Шут (КиШ)",
       "title": "Проклятый старый дом",
-      "chords": "Hm A G F# (x2) G A F# Hm (Hm A G) G A F# Hm - G A F# Hm (F#) G"
+      "chords": "Hm A G F# (x2) G A F# Hm (Hm A G) G A F# Hm - G A F# Hm (F#) G",
+      "chords_count": 23,
+      "complexity": 21
     },
     "tags": [
       "аккорды",
@@ -3031,7 +3424,9 @@
     "details": {
       "artist": "Красные Звезды",
       "title": "Перекресток",
-      "chords": "Hm G D F# - Hm Em D F#"
+      "chords": "Hm G D F# - Hm Em D F#",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -3045,7 +3440,9 @@
     "details": {
       "artist": "Крематорий",
       "title": "2001 год",
-      "chords": "Em Em A7 Em (x2) - C G D Em (x2) .. C D C H7 Em"
+      "chords": "Em Em A7 Em (x2) - C G D Em (x2) .. C D C H7 Em",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды"
@@ -3059,7 +3456,9 @@
     "details": {
       "artist": "Крематорий",
       "title": "Геенна огненная",
-      "chords": "Em Am G D - G C G C - Am D7 Em Am G D - G G Hm Hm C F C D"
+      "chords": "Em Am G D - G C G C - Am D7 Em Am G D - G G Hm Hm C F C D",
+      "chords_count": 25,
+      "complexity": 23
     },
     "tags": [
       "аккорды",
@@ -3074,7 +3473,9 @@
     "details": {
       "artist": "Крематорий",
       "title": "Клубника со льдом",
-      "chords": "A Gm E A"
+      "chords": "A Gm E A",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -3088,7 +3489,9 @@
     "details": {
       "artist": "Крематорий",
       "title": "Маленькая девочка",
-      "chords": "Am D F Am - F Am G Am"
+      "chords": "Am D F Am - F Am G Am",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды популярные",
@@ -3103,7 +3506,9 @@
     "details": {
       "artist": "Крематорий",
       "title": "Мусорный ветер",
-      "chords": "Em Em C F# C F# H7 Em - Am D7 G Em - C Am F# H7 Em"
+      "chords": "Em Em C F# C F# H7 Em - Am D7 G Em - C Am F# H7 Em",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды",
@@ -3118,7 +3523,9 @@
     "details": {
       "artist": "Крематорий",
       "title": "Последний шанс",
-      "chords": "Am D Am D Am G Am E Am D FE Am - D G"
+      "chords": "Am D Am D Am G Am E Am D FE Am - D G",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды"
@@ -3132,7 +3539,9 @@
     "details": {
       "artist": "Линда",
       "title": "Боль",
-      "chords": "Am F Dm E - Dm Am"
+      "chords": "Am F Dm E - Dm Am",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды"
@@ -3146,7 +3555,9 @@
     "details": {
       "artist": "Линда",
       "title": "Мало огня",
-      "chords": "Dm A# F A7"
+      "chords": "Dm A# F A7",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -3161,7 +3572,9 @@
     "details": {
       "artist": "Люмен",
       "title": "Волк",
-      "chords": "Am Em Dm (x4) - Am G F (x4)"
+      "chords": "Am Em Dm (x4) - Am G F (x4)",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -3175,7 +3588,9 @@
     "details": {
       "artist": "Люмен",
       "title": "Гореть",
-      "chords": "Am G F Dm (x2) F Am G F' Am G F - Dm Am C G (F)"
+      "chords": "Am G F Dm (x2) F Am G F' Am G F - Dm Am C G (F)",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды",
@@ -3190,7 +3605,9 @@
     "details": {
       "artist": "Люмен",
       "title": "Сколько",
-      "chords": "Em D C Hm - C Hm Em D - C Hm Em D"
+      "chords": "Em D C Hm - C Hm Em D - C Hm Em D",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -3204,7 +3621,9 @@
     "details": {
       "artist": "Люмен",
       "title": "Три пути",
-      "chords": "F Dm Am Em .. F Dm Am G"
+      "chords": "F Dm Am Em .. F Dm Am G",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -3218,7 +3637,9 @@
     "details": {
       "artist": "Мара",
       "title": "Где-то моя любовь",
-      "chords": "Em Am Am H - Em Am H Em Am H7"
+      "chords": "Em Am Am H - Em Am H Em Am H7",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -3232,7 +3653,9 @@
     "details": {
       "artist": "Мара",
       "title": "Холодным мужчинам",
-      "chords": "Hm G Em F или Am F C E"
+      "chords": "Hm G Em F или Am F C E",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -3247,7 +3670,9 @@
     "details": {
       "artist": "Маша и Медведи",
       "title": "Без тебя",
-      "chords": "Em C - Em C (x4) .. G C Hm C .. Em C Em C"
+      "chords": "Em C - Em C (x4) .. G C Hm C .. Em C Em C",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды",
@@ -3262,7 +3687,9 @@
     "details": {
       "artist": "Машина Времени",
       "title": "Костер",
-      "chords": "C D Em Em - Em G D C Hm Em - C G D C Hm Em - C G A C Hm Em"
+      "chords": "C D Em Em - Em G D C Hm Em - C G D C Hm Em - C G A C Hm Em",
+      "chords_count": 25,
+      "complexity": 23
     },
     "tags": [
       "аккорды",
@@ -3277,7 +3704,9 @@
     "details": {
       "artist": "Машина Времени",
       "title": "Однажды мир прогнется под нас",
-      "chords": "Em D C H7 Em - Am H7 - Em D A C H7 Em - C Em"
+      "chords": "Em D C H7 Em - Am H7 - Em D A C H7 Em - C Em",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды",
@@ -3292,7 +3721,9 @@
     "details": {
       "artist": "Машина Времени",
       "title": "Он был старше ее",
-      "chords": "Em Am H7 - E Am H7 Em"
+      "chords": "Em Am H7 - E Am H7 Em",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды",
@@ -3307,7 +3738,9 @@
     "details": {
       "artist": "Мельница",
       "title": "Ай, волна",
-      "chords": "Am F Dm G .. F C G F C.G - Am F Dm G"
+      "chords": "Am F Dm G .. F C G F C.G - Am F Dm G",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды"
@@ -3321,7 +3754,9 @@
     "details": {
       "artist": "Мельница",
       "title": "Богиня Иштар",
-      "chords": "Am (x4) Dm F Em Am .. F G Am"
+      "chords": "Am (x4) Dm F Em Am .. F G Am",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -3335,7 +3770,9 @@
     "details": {
       "artist": "Мельница",
       "title": "Ворон",
-      "chords": "Gm Gm B A - B Dm (x3) .. C B"
+      "chords": "Gm Gm B A - B Dm (x3) .. C B",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -3349,7 +3786,9 @@
     "details": {
       "artist": "Мельница",
       "title": "Господин Горных Дорог",
-      "chords": "D Em C G .. Am D Em C G D .. D Am C D - G D Am C .. G D Am C D (я хотела) C D Em (x2) C G D Em .. C G D"
+      "chords": "D Em C G .. Am D Em C G D .. D Am C D - G D Am C .. G D Am C D (я хотела) C D Em (x2) C G D Em .. C G D",
+      "chords_count": 41,
+      "complexity": 39
     },
     "tags": [
       "аккорды",
@@ -3364,7 +3803,9 @@
     "details": {
       "artist": "Мельница",
       "title": "Двери Тамерлана",
-      "chords": "Am G Dm F G Am .. G Dm F G C - C G Am F C G Dm G"
+      "chords": "Am G Dm F G Am .. G Dm F G C - C G Am F C G Dm G",
+      "chords_count": 21,
+      "complexity": 19
     },
     "tags": [
       "аккорды",
@@ -3379,7 +3820,9 @@
     "details": {
       "artist": "Мельница",
       "title": "Дороги",
-      "chords": "Am D Dm Am Em F Em - Am F G C.G.Dm Em F G .. Am F G C.G.F G Am"
+      "chords": "Am D Dm Am Em F Em - Am F G C.G.Dm Em F G .. Am F G C.G.F G Am",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды",
@@ -3394,7 +3837,9 @@
     "details": {
       "artist": "Мельница",
       "title": "Контрабанда",
-      "chords": "Dm Am A# C .. Dm Am A# .. D# A# G# Cm .. G# Cm G# F - A# F Cm Gm .. D# Gm Dm F"
+      "chords": "Dm Am A# C .. Dm Am A# .. D# A# G# Cm .. G# Cm G# F - A# F Cm Gm .. D# Gm Dm F",
+      "chords_count": 28,
+      "complexity": 26
     },
     "tags": [
       "аккорды"
@@ -3408,7 +3853,9 @@
     "details": {
       "artist": "Мельница",
       "title": "Рапунцель",
-      "chords": "Am G D F .. C G F E .. Dm.Dm7.G C.G.F .. Dm Dm7 E Am"
+      "chords": "Am G D F .. C G F E .. Dm.Dm7.G C.G.F .. Dm Dm7 E Am",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды популярные",
@@ -3423,7 +3870,9 @@
     "details": {
       "artist": "Михаил Башаков",
       "title": "Extreme",
-      "chords": "Em G Am9 H7"
+      "chords": "Em G Am9 H7",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -3437,7 +3886,9 @@
     "details": {
       "artist": "Михаил Башаков",
       "title": "Истина",
-      "chords": "Am A (x2) Dm F Am E - Am-G-F Dm E (x2) .. Am F (x2) Am-F-E7"
+      "chords": "Am A (x2) Dm F Am E - Am-G-F Dm E (x2) .. Am F (x2) Am-F-E7",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды"
@@ -3451,7 +3902,9 @@
     "details": {
       "artist": "Михаил Башаков",
       "title": "Пустота",
-      "chords": "G H7 Em-C-D7 - Em A Am H7 - Em G C H7"
+      "chords": "G H7 Em-C-D7 - Em A Am H7 - Em G C H7",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды"
@@ -3465,7 +3918,9 @@
     "details": {
       "artist": "Михаил Башаков",
       "title": "Раскинув руки",
-      "chords": "Em H7 Em C .. Am H7 Em - A7 H7 Em C .. Am H7 Em"
+      "chords": "Em H7 Em C .. Am H7 Em - A7 H7 Em C .. Am H7 Em",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды"
@@ -3479,7 +3934,9 @@
     "details": {
       "artist": "Михей и Джуманджи",
       "title": "Сука-любовь",
-      "chords": "F Am7 G Dm F Am7 G Dm - F G Am7 F G Dm - F G Am7 G Dm Dm"
+      "chords": "F Am7 G Dm F Am7 G Dm - F G Am7 F G Dm - F G Am7 G Dm Dm",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды"
@@ -3492,7 +3949,9 @@
     "details": {
       "artist": "Многоточие",
       "title": "На своем",
-      "chords": "Em Em Am H7"
+      "chords": "Em Em Am H7",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -3506,7 +3965,9 @@
     "details": {
       "artist": "Мураками",
       "title": "Нулевой километр",
-      "chords": "(кап 3) Em C Em C .. G Am C Em-D-Am .. Em C G D - Em C G Am Em C G (D)"
+      "chords": "(кап 3) Em C Em C .. G Am C Em-D-Am .. Em C G D - Em C G Am Em C G (D)",
+      "chords_count": 25,
+      "complexity": 23
     },
     "tags": [
       "аккорды"
@@ -3520,7 +3981,9 @@
     "details": {
       "artist": "Наутилус Помпилиус",
       "title": "Бриллиантовые дороги",
-      "chords": "Em D A Em Hm A Em .. D A Em G F#m Em D A .. Em Hm A Em - D A Em G F#m Em D A"
+      "chords": "Em D A Em Hm A Em .. D A Em G F#m Em D A .. Em Hm A Em - D A Em G F#m Em D A",
+      "chords_count": 30,
+      "complexity": 28
     },
     "tags": [
       "аккорды",
@@ -3535,7 +3998,9 @@
     "details": {
       "artist": "Наутилус Помпилиус",
       "title": "Все, кто нес",
-      "chords": "Am G C G C .. E7 Am G C .. G C E Am - G C E Am (x2) .. G C E Am .. G C E Am"
+      "chords": "Am G C G C .. E7 Am G C .. G C E Am - G C E Am (x2) .. G C E Am .. G C E Am",
+      "chords_count": 31,
+      "complexity": 29
     },
     "tags": [
       "аккорды"
@@ -3549,7 +4014,9 @@
     "details": {
       "artist": "Наутилус Помпилиус",
       "title": "Дыхание",
-      "chords": "D A Hm F# G D Em Hm - A Hm G Hm A Hm G Hm"
+      "chords": "D A Hm F# G D Em Hm - A Hm G Hm A Hm G Hm",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды"
@@ -3563,7 +4030,9 @@
     "details": {
       "artist": "Наутилус Помпилиус",
       "title": "Крылья",
-      "chords": "Em H7 Am H7 - F Em F Em - D Em D Em"
+      "chords": "Em H7 Am H7 - F Em F Em - D Em D Em",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды",
@@ -3592,7 +4061,9 @@
     "details": {
       "artist": "Наутилус Помпилиус",
       "title": "Морской Змей",
-      "chords": "Em Am E"
+      "chords": "Em Am E",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -3606,7 +4077,9 @@
     "details": {
       "artist": "Наутилус Помпилиус",
       "title": "Прогулки по воде",
-      "chords": "Em H7 Am Em - G D Am Em G D H7 - G D Am Em C G D H7"
+      "chords": "Em H7 Am Em - G D Am Em G D H7 - G D Am Em C G D H7",
+      "chords_count": 21,
+      "complexity": 19
     },
     "tags": [
       "аккорды",
@@ -3621,7 +4094,9 @@
     "details": {
       "artist": "Наутилус Помпилиус",
       "title": "Титаник",
-      "chords": "Dm ... G Dm Am Em Am - Dm ... G Dm Em B Am Em Am - G Am G Am G B Am Em Am"
+      "chords": "Dm ... G Dm Am Em Am - Dm ... G Dm Em B Am Em Am - G Am G Am G B Am Em Am",
+      "chords_count": 27,
+      "complexity": 25
     },
     "tags": [
       "аккорды"
@@ -3635,7 +4110,9 @@
     "details": {
       "artist": "Никольский Константин",
       "title": "Мой друг художник и поэт",
-      "chords": "Em Hm C Am H7 - C Em Am H7"
+      "chords": "Em Hm C Am H7 - C Em Am H7",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды",
@@ -3650,7 +4127,9 @@
     "details": {
       "artist": "Ночные Снайперы",
       "title": "По волнам твоих слез",
-      "chords": "Am E Am F C Dm Am E Am - Hm F# Hm G D Em Hm F# Hm"
+      "chords": "Am E Am F C Dm Am E Am - Hm F# Hm G D Em Hm F# Hm",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -3664,7 +4143,9 @@
     "details": {
       "artist": "Ночные Снайперы",
       "title": "Солнце",
-      "chords": "Hm F# - G F# - Em F#"
+      "chords": "Hm F# - G F# - Em F#",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды"
@@ -3678,7 +4159,9 @@
     "details": {
       "artist": "Операция Пластилин",
       "title": "Внутри себя я танцую",
-      "chords": "Hm G Hm G F# Hm - G F# - Hm G D A - G A Hm A"
+      "chords": "Hm G Hm G F# Hm - G F# - Hm G D A - G A Hm A",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -3692,7 +4175,9 @@
     "details": {
       "artist": "Операция Пластилин",
       "title": "Курта Кобейна",
-      "chords": "Am F C E"
+      "chords": "Am F C E",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -3706,7 +4191,9 @@
     "details": {
       "artist": "Операция Пластилин",
       "title": "Никтожество",
-      "chords": "E G# C#m A B"
+      "chords": "E G# C#m A B",
+      "chords_count": 5,
+      "complexity": 3
     },
     "tags": [
       "аккорды"
@@ -3720,7 +4207,9 @@
     "details": {
       "artist": "Оргия Праведников",
       "title": "Сицилийский виноград",
-      "chords": "Am E Am Am E Am - E Am G7 C Dm Am E Am"
+      "chords": "Am E Am Am E Am - E Am G7 C Dm Am E Am",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды",
@@ -3735,7 +4224,9 @@
     "details": {
       "artist": "Оргия Праведников",
       "title": "Танец Казановы",
-      "chords": "Em F# G A .. H7 Em - C Am H .. H7 Em - Am Am/C G Em .. C Am H7"
+      "chords": "Em F# G A .. H7 Em - C Am H .. H7 Em - Am Am/C G Em .. C Am H7",
+      "chords_count": 23,
+      "complexity": 21
     },
     "tags": [
       "аккорды"
@@ -3749,7 +4240,9 @@
     "details": {
       "artist": "Оргия Праведников",
       "title": "Армагеддон FM",
-      "chords": "C F C G .. C Am C G - C F C G .. C Am F G"
+      "chords": "C F C G .. C Am C G - C F C G .. C Am F G",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -3763,7 +4256,9 @@
     "details": {
       "artist": "Оргия Праведников",
       "title": "Наша родина СССР",
-      "chords": "Dm B A - Dm B F A"
+      "chords": "Dm B A - Dm B F A",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды"
@@ -3777,7 +4272,9 @@
     "details": {
       "artist": "Оргия Праведников",
       "title": "Покой и свобода",
-      "chords": "Am G F Am (x2) G .. Am G F Am .. G Am G Am"
+      "chords": "Am G F Am (x2) G .. Am G F Am .. G Am G Am",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды"
@@ -3791,7 +4288,9 @@
     "details": {
       "artist": "Оргия Праведников",
       "title": "Посвящение Высоцкому",
-      "chords": "Am Dm E Am-A7 .. Dm Am Dm E - Dm Am Dm Am .. Dm Am Dm E"
+      "chords": "Am Dm E Am-A7 .. Dm Am Dm E - Dm Am Dm Am .. Dm Am Dm E",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -3805,7 +4304,9 @@
     "details": {
       "artist": "Оргия Праведников",
       "title": "Последний воин мёртвой земли",
-      "chords": "Am G Dm F E"
+      "chords": "Am G Dm F E",
+      "chords_count": 5,
+      "complexity": 3
     },
     "tags": [
       "аккорды",
@@ -3820,7 +4321,9 @@
     "details": {
       "artist": "Оргия Праведников",
       "title": "Сицилийский виноград",
-      "chords": "Am E Am - E Am G7 C - Dm Am E Am"
+      "chords": "Am E Am - E Am G7 C - Dm Am E Am",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды"
@@ -3848,7 +4351,9 @@
     "details": {
       "artist": "Оргия Праведников",
       "title": "Хуанхэ. Дождь над Великой рекой",
-      "chords": "Am G Dm E"
+      "chords": "Am G Dm E",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -3862,7 +4367,9 @@
     "details": {
       "artist": "Пикник",
       "title": "Вечер",
-      "chords": "C Cm Hm Em Am D G - C Am Em D"
+      "chords": "C Cm Hm Em Am D G - C Am Em D",
+      "chords_count": 12,
+      "complexity": 10
     },
     "tags": [
       "аккорды"
@@ -3876,7 +4383,9 @@
     "details": {
       "artist": "Пикник",
       "title": "Говорит и показывает",
-      "chords": "(кап 2) Em Am D G (H) .. Em Am Em H (Em) - Em Am Em H"
+      "chords": "(кап 2) Em Am D G (H) .. Em Am Em H (Em) - Em Am Em H",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды",
@@ -3891,7 +4400,9 @@
     "details": {
       "artist": "Пикник",
       "title": "Египтянин",
-      "chords": "Am F G Dm A .. Am F G Dm E - Am Dm G C .. F Dm E"
+      "chords": "Am F G Dm A .. Am F G Dm E - Am Dm G C .. F Dm E",
+      "chords_count": 20,
+      "complexity": 18
     },
     "tags": [
       "аккорды",
@@ -3906,7 +4417,9 @@
     "details": {
       "artist": "Пикник",
       "title": "Лишь влюбленному вампиру",
-      "chords": "(кап 3) Em (Em/D) C .. D (D/C) Em"
+      "chords": "(кап 3) Em (Em/D) C .. D (D/C) Em",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -3921,7 +4434,9 @@
     "details": {
       "artist": "Пикник",
       "title": "Мы - как трепетные птицы",
-      "chords": "Em Em Am H7"
+      "chords": "Em Em Am H7",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -3935,7 +4450,9 @@
     "details": {
       "artist": "Пикник",
       "title": "РАЗ, ДВА...",
-      "chords": "Em C Am D"
+      "chords": "Em C Am D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -3949,7 +4466,9 @@
     "details": {
       "artist": "Пикник",
       "title": "Там, на самом краю земли",
-      "chords": "Em Am D G - Em Am H7 Em"
+      "chords": "Em Am D G - Em Am H7 Em",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -3964,21 +4483,25 @@
     "details": {
       "artist": "Пилот",
       "title": "7 часов утра",
-      "chords": "Hm C F# Hm C F# - Hm C F# H G - Em F# Hm G - Em F# Hm E - C#m F# Hm"
+      "chords": "Hm C F# Hm C F# - Hm C F# H G - Em F# Hm G - Em F# Hm E - C#m F# Hm",
+      "chords_count": 26,
+      "complexity": 24
     },
     "tags": [
       "аккорды"
     ]
   },
   {
-    "title": "Пилот - В подвенечном, Hm D G F#m - Hm F#m Gm A * 2 - D Em D G A Hm G A",
+    "title": "Пилот - В подвенечном, Hm D G F#m - Hm F#m Gm A (x2) - D Em D G A Hm G A",
     "url": "https://amdm.ru/akkordi/ila_chert/2112/v_podvenechnom/",
     "text": "Проигрыш: Bm | F#m\n          Bm | D | G | F#\n\n  Bm       D    G      F#m\nВ подвенечном платье белом\n   Bm    D           G  F#m\nТвердым шагом да за круг!\n  Bm    D        G       F#m\nМимо двери, по дороге за черту,\nBm  D          G        F#m     Bm F#m Gm\nУнося с собой мечту о долгих вечерах...\n     A           Bm F#m Gm         A        D\nИ нету слез в глазах... и нету слез в глазах!\n\n D      Em       D           G           A\nМы потеряемся с тобой! Мы потеряем счет словам,\n              Bm         G             A\nМы с тобой разойдемся в небе, как две стаи.\n     D            Em           D      G      A\nКто на юг, а кто на север, а кто на волю полетит,\n     Bm         G           A            Bm\nТеряя перья и помня, как захлопнулась дверь!\n\nBm    D     G    F#m   Bm     D   G     F#m\nВсе уходят тихим шагом, оставляя только след.\nBm     D    G    F#m   Bm    D \nВетер утро подгоняет и не крикнуть!\nG         F#m    Bm  F#m   Gm    A  Bm  F#m\nПоздно... голоса уж нет! И не порвать билет!\n   Gm  A \nПути обратно нет!\n\n D      Em       D           G       A\nМы разбежимся кто куда и след запутаем\n              Bm         G             A\nВ асфальтовых равнинах новорожденных районов,\n     D            Em           D      G      A\nГде зима смешалась с грязью, а весне туда вообще дороги нет!\n     Bm         G           A            Bm\nГде в серых кирпичах мы потеряли детства слабый след!\n\n  Bm       D    G      F#m\nПо дорогам, каждый по своей, бегом,\n  Bm       D    G      F#m\nБез оглядки, глотая ночь открытым ртом.\n  Bm       D    G      F#m\nБез патронов нех.й браться за ружье,\nBm  D          G        F#m     Bm F#m Gm\nА коли сделал шаг - получишь по сердцу свое...\n     A           Bm F#m Gm         A        D\nПеребродившее вино... взгляд через мутное стекло.\n\n D      Em       D           G      A\nИ, пережив остаток дня, мы соберемся\n              Bm         G             A\nНа асфальтовых равнинах новорожденных районов,\n     D            Em           D      G      A\nГде зима смешалась с грязью, а весне туда вообще дороги нет!\n     Bm         G           A            Bm\nГде в серых кирпичах мы потеряли детства слабый след!",
     "created": "2018-06-02T19:16:14.290Z",
     "details": {
       "artist": "Пилот",
       "title": "В подвенечном",
-      "chords": "Hm D G F#m - Hm F#m Gm A * 2 - D Em D G A Hm G A"
+      "chords": "Hm D G F#m - Hm F#m Gm A (x2) - D Em D G A Hm G A",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -3992,7 +4515,9 @@
     "details": {
       "artist": "Пилот",
       "title": "Когда Ты Вернёшься...",
-      "chords": "Am C F C/C .. Am C F G .. Am C F G (x2) .. Dm G - F G C/C Am"
+      "chords": "Am C F C/C .. Am C F G .. Am C F G (x2) .. Dm G - F G C/C Am",
+      "chords_count": 23,
+      "complexity": 21
     },
     "tags": [
       "аккорды"
@@ -4020,7 +4545,9 @@
     "details": {
       "artist": "Пилот",
       "title": "На полусогнутых",
-      "chords": "Em C A .. Em C A7 .. C H7 C D - Em G A .. Em G A7 .. C H7 C D - A Em (x8) - Em C C H7 C D .. Hm C (x2) Em G A (x2) Em G A7 .. F# Am7 G A - Am Em"
+      "chords": "Em C A .. Em C A7 .. C H7 C D - Em G A .. Em G A7 .. C H7 C D - A Em (x8) - Em C C H7 C D .. Hm C (x2) Em G A (x2) Em G A7 .. F# Am7 G A - Am Em",
+      "chords_count": 55,
+      "complexity": 53
     },
     "tags": [
       "аккорды"
@@ -4034,7 +4561,9 @@
     "details": {
       "artist": "Пилот",
       "title": "Нас утро накажет",
-      "chords": "Am Am/F F E - Dm G Am A7 Dm E Dm - Am G F"
+      "chords": "Am Am/F F E - Dm G Am A7 Dm E Dm - Am G F",
+      "chords_count": 16,
+      "complexity": 14
     },
     "tags": [
       "аккорды"
@@ -4048,7 +4577,9 @@
     "details": {
       "artist": "Пилот",
       "title": "По утру",
-      "chords": "Am(F) Dm E"
+      "chords": "Am(F) Dm E",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -4062,7 +4593,9 @@
     "details": {
       "artist": "Пилот",
       "title": "Химия (акустический вариант)",
-      "chords": "Am F Dm E"
+      "chords": "Am F Dm E",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -4076,7 +4609,9 @@
     "details": {
       "artist": "Пицца",
       "title": "Лифт",
-      "chords": "Gm A Dm A# Gm A Dm D - Gm Gm A A7 - Gm A Dm A# Gm A Gm D"
+      "chords": "Gm A Dm A# Gm A Dm D - Gm Gm A A7 - Gm A Dm A# Gm A Gm D",
+      "chords_count": 22,
+      "complexity": 20
     },
     "tags": [
       "аккорды"
@@ -4090,7 +4625,9 @@
     "details": {
       "artist": "Пропаганда",
       "title": "Мелом",
-      "chords": "Hm G D F#"
+      "chords": "Hm G D F#",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -4104,7 +4641,9 @@
     "details": {
       "artist": "СМЕТАНА band",
       "title": "Мы Не Подружимся",
-      "chords": "Am C D F E"
+      "chords": "Am C D F E",
+      "chords_count": 5,
+      "complexity": 3
     },
     "tags": [
       "аккорды"
@@ -4117,7 +4656,8 @@
     "details": {
       "artist": "",
       "title": "",
-      "chords": ""
+      "chords": "",
+      "chords_count": 0
     },
     "tags": [
       "аккорды"
@@ -4131,7 +4671,9 @@
     "details": {
       "artist": "Смысловые Галлюцинации",
       "title": "Все в порядке",
-      "chords": "Am F E"
+      "chords": "Am F E",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды"
@@ -4145,7 +4687,9 @@
     "details": {
       "artist": "Смысловые Галлюцинации",
       "title": "Зачем топтать мою любовь",
-      "chords": "Em Am G H - Em Am D G H"
+      "chords": "Em Am G H - Em Am D G H",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -4159,7 +4703,9 @@
     "details": {
       "artist": "Смысловые Галлюцинации",
       "title": "Звезды-3000",
-      "chords": "Hm Em G A - D G A F#"
+      "chords": "Hm Em G A - D G A F#",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды"
@@ -4173,7 +4719,9 @@
     "details": {
       "artist": "Смысловые Галлюцинации",
       "title": "Охотники",
-      "chords": "H F# G#m E H - H F# G#m E"
+      "chords": "H F# G#m E H - H F# G#m E",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -4187,7 +4735,9 @@
     "details": {
       "artist": "Собаки Качалова",
       "title": "Поезда",
-      "chords": "Am Dm G C E/E7 - Dm E"
+      "chords": "Am Dm G C E/E7 - Dm E",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды"
@@ -4201,7 +4751,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Альтависта",
-      "chords": "Gm Dm C A#"
+      "chords": "Gm Dm C A#",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -4230,7 +4782,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Бонни и Клайд",
-      "chords": "C Am Dm"
+      "chords": "C Am Dm",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды",
@@ -4245,7 +4799,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Двуречье",
-      "chords": "Dm C Dm Am Dm G Am Dm - C Am Dm C Dm G Am Dm"
+      "chords": "Dm C Dm Am Dm G Am Dm - C Am Dm C Dm G Am Dm",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды"
@@ -4259,7 +4815,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Звезда рок-н-ролла",
-      "chords": "Hm Asus2 D F#m"
+      "chords": "Hm Asus2 D F#m",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -4274,7 +4832,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Кто-то не успел",
-      "chords": "Em D C H7"
+      "chords": "Em D C H7",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -4288,7 +4848,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Лабиринт",
-      "chords": "Am Am/C H E"
+      "chords": "Am Am/C H E",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -4302,7 +4864,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Любовь идет по проводам",
-      "chords": "Em D - A G Em (A)"
+      "chords": "Em D - A G Em (A)",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды",
@@ -4317,7 +4881,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Маяк (Вместо письма)",
-      "chords": "Hm (все х2) Em Hm Em - D F#m G D"
+      "chords": "Hm (все х2) Em Hm Em - D F#m G D",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды",
@@ -4332,7 +4898,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Остаемся зимовать",
-      "chords": "C G Am G F - F C F Am F Dm F Dm - Am Dm"
+      "chords": "C G Am G F - F C F Am F Dm F Dm - Am Dm",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды",
@@ -4347,7 +4915,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Письмо",
-      "chords": "Am Dm6 F+7 E/F Am"
+      "chords": "Am Dm6 F+7 E/F Am",
+      "chords_count": 5,
+      "complexity": 3
     },
     "tags": [
       "аккорды"
@@ -4361,7 +4931,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Пластмассовая жизнь",
-      "chords": "Dm Gm Dm Gm Dm C - F Dm C B C - F Dm C B"
+      "chords": "Dm Gm Dm Gm Dm C - F Dm C B C - F Dm C B",
+      "chords_count": 17,
+      "complexity": 15
     },
     "tags": [
       "аккорды",
@@ -4376,7 +4948,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Пой мне еще",
-      "chords": "Dm C G - Gm F C"
+      "chords": "Dm C G - Gm F C",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды",
@@ -4391,7 +4965,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Романс",
-      "chords": "A7 Dm A7 Dm - Gm F Gm A7 Dm"
+      "chords": "A7 Dm A7 Dm - Gm F Gm A7 Dm",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды",
@@ -4406,7 +4982,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Самый первый снег (Три цвета)",
-      "chords": "Dm C - Gm A#"
+      "chords": "Dm C - Gm A#",
+      "chords_count": 5,
+      "complexity": 3
     },
     "tags": [
       "аккорды",
@@ -4414,14 +4992,16 @@
     ]
   },
   {
-    "title": "Сплин - Санкт-Петербургское небо, (кап. 3) Em Hm D G .. F#m A Dm Hm .. Em Hm D G - F#m Hm A E .. Hm A E",
+    "title": "Сплин - Санкт-Петербургское небо, (кап 3) Em Hm D G .. F#m A Dm Hm .. Em Hm D G - F#m Hm A E .. Hm A E",
     "url": "https://amdm.ru/akkordi/splin/854/sankt_peterburgskoe_nebo/",
     "text": "Gm                Dm\nКомната, окна на площадь,\n  F              Bb\nРваные флаги по ветру.\nAm                 C\nЖенщина в окнах напротив\n    Gm             Dm\nСжигает нетленные письма,\nF             Bb\nА над ее головою -\nAm                   Dm C G\nСанкт-петербургское не---бо.\n\nGm                Dm\nЛестница, десять пролетов,\n  F              Bb\nКаждый изучен до боли.\nAm                 C\nТрамваи забиты людьми,\nGm                Dm\nНо я не чувствую локтя\n  F              Bb\nЯ еду в солнечный край -\nAm                   Dm C G\nК санкт-петербургскому небу.\n\nAm                  Em\nДай хоть немного свободы\n  G                   C\nПтицам, парящим в прицеле.\n    Bm             D\nИм некуда будет лететь,\nAm                  Em\nЕсли ты рухнешь на город.\n\n   Am                Em\nЗдравствуй осенняя площадь.\nAm                   Em\nПусть мой этаж не последний --\n  G               C\nСкоро я буду с тобой,\n     Bm                 Em D A  Em D A   \nМое санкт-петербургское не--бо.",
     "created": "2018-06-16T17:19:26.926Z",
     "details": {
       "artist": "Сплин",
       "title": "Санкт-Петербургское небо",
-      "chords": "(кап. 3) Em Hm D G .. F#m A Dm Hm .. Em Hm D G - F#m Hm A E .. Hm A E"
+      "chords": "(кап 3) Em Hm D G .. F#m A Dm Hm .. Em Hm D G - F#m Hm A E .. Hm A E",
+      "chords_count": 25,
+      "complexity": 23
     },
     "tags": [
       "аккорды"
@@ -4435,7 +5015,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Танцуй",
-      "chords": "C A# Em"
+      "chords": "C A# Em",
+      "chords_count": 3,
+      "complexity": 1
     },
     "tags": [
       "аккорды",
@@ -4450,7 +5032,9 @@
     "details": {
       "artist": "Сплин",
       "title": "Шахматы",
-      "chords": "Em Gm F#m Fm"
+      "chords": "Em Gm F#m Fm",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -4463,7 +5047,8 @@
     "details": {
       "artist": "",
       "title": "",
-      "chords": ""
+      "chords": "",
+      "chords_count": 0
     },
     "tags": [
       "укулеле"
@@ -4477,7 +5062,9 @@
     "details": {
       "artist": "Танцы Минус",
       "title": "Город",
-      "chords": "Hm G Em F# - Em F# Hm G"
+      "chords": "Hm G Em F# - Em F# Hm G",
+      "chords_count": 9,
+      "complexity": 7
     },
     "tags": [
       "аккорды",
@@ -4492,7 +5079,9 @@
     "details": {
       "artist": "Танцы Минус",
       "title": "Половинка",
-      "chords": "Am F C E"
+      "chords": "Am F C E",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -4507,7 +5096,9 @@
     "details": {
       "artist": "Теплая Трасса",
       "title": "Безумный мир",
-      "chords": "(вступ. G H7 Em D) G C D G .. G Am H Em .. C D G .. Am H Em H Em - Em Am H Em .. Em H .. Am D Am (x3) Am D G H Em"
+      "chords": "(вступ. G H7 Em D) G C D G .. G Am H Em .. C D G .. Am H Em H Em - Em Am H Em .. Em H .. Am D Am (x3) Am D G H Em",
+      "chords_count": 42,
+      "complexity": 40
     },
     "tags": [
       "аккорды"
@@ -4521,7 +5112,9 @@
     "details": {
       "artist": "Теплая Трасса",
       "title": "Каждому свое",
-      "chords": "Em D (x4) .. C G .. Am H C Em D - Em Am H (x2) .. C G H Em .. C Em H C Em D"
+      "chords": "Em D (x4) .. C G .. Am H C Em D - Em Am H (x2) .. C G H Em .. C Em H C Em D",
+      "chords_count": 29,
+      "complexity": 27
     },
     "tags": [
       "аккорды"
@@ -4535,7 +5128,9 @@
     "details": {
       "artist": "Теплая Трасса",
       "title": "Мертвый мир",
-      "chords": "Em D C(G) H7"
+      "chords": "Em D C(G) H7",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -4549,7 +5144,9 @@
     "details": {
       "artist": "Теплая Трасса",
       "title": "Товарищ Вечность",
-      "chords": "Am E Am - C G C - Dm G C Am - Dm E Am A (E)"
+      "chords": "Am E Am - C G C - Dm G C Am - Dm E Am A (E)",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды"
@@ -4576,7 +5173,9 @@
     "details": {
       "artist": "Торба-на-Круче",
       "title": "Все в себе",
-      "chords": "Em G D Dm Am C Am H7 - Am Em7"
+      "chords": "Em G D Dm Am C Am H7 - Am Em7",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды"
@@ -4590,7 +5189,9 @@
     "details": {
       "artist": "Торба-на-Круче",
       "title": "Непсих",
-      "chords": "Am F G Em (C E Am) - Am C G Em E Am C G C E"
+      "chords": "Am F G Em (C E Am) - Am C G Em E Am C G C E",
+      "chords_count": 18,
+      "complexity": 16
     },
     "tags": [
       "аккорды"
@@ -4604,7 +5205,9 @@
     "details": {
       "artist": "Трофим",
       "title": "Московская песня",
-      "chords": "Em D C H7 Em D G - Am D G C Am H7 - Em Am D G H7 - Em Am Am H7 Em"
+      "chords": "Em D C H7 Em D G - Am D G C Am H7 - Em Am D G H7 - Em Am Am H7 Em",
+      "chords_count": 26,
+      "complexity": 24
     },
     "tags": [
       "аккорды"
@@ -4618,7 +5221,9 @@
     "details": {
       "artist": "Трофим",
       "title": "Рассвет",
-      "chords": "Em H H Em - Am Em H7 Em E7"
+      "chords": "Em H H Em - Am Em H7 Em E7",
+      "chords_count": 10,
+      "complexity": 8
     },
     "tags": [
       "аккорды"
@@ -4631,7 +5236,9 @@
     "details": {
       "artist": "Тёплая Трасса",
       "title": "Про судьбу",
-      "chords": "Em F# H -Em D G - Am H Em - D G - Am H Em - Am H Em"
+      "chords": "Em F# H -Em D G - Am H Em - D G - Am H Em - Am H Em",
+      "chords_count": 21,
+      "complexity": 19
     },
     "tags": [
       "аккорды"
@@ -4645,7 +5252,9 @@
     "details": {
       "artist": "Умка и Броневичок",
       "title": "Лестничный пролет",
-      "chords": "Am G F E - F E"
+      "chords": "Am G F E - F E",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды"
@@ -4659,7 +5268,9 @@
     "details": {
       "artist": "Умка и Броневичок",
       "title": "Никому не принадлежишь",
-      "chords": "D G A D"
+      "chords": "D G A D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды"
@@ -4673,7 +5284,9 @@
     "details": {
       "artist": "Х.З. (Хуй Забей)",
       "title": "А зря",
-      "chords": "Em Am H Am .. Em Am D G E7 - Am D D G C7 F H7 Em"
+      "chords": "Em Am H Am .. Em Am D G E7 - Am D D G C7 F H7 Em",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -4687,7 +5300,9 @@
     "details": {
       "artist": "Х.З. (Хуй Забей)",
       "title": "А подмога не пришла",
-      "chords": "Am Dm E Am .. Dm G C"
+      "chords": "Am Dm E Am .. Dm G C",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды"
@@ -4700,7 +5315,8 @@
     "details": {
       "artist": "",
       "title": "",
-      "chords": ""
+      "chords": "",
+      "chords_count": 0
     },
     "tags": [
       "аккорды"
@@ -4714,7 +5330,9 @@
     "details": {
       "artist": "Чайф",
       "title": "Белая лошадь",
-      "chords": "C Dm Am F C G A# Am - F C F C"
+      "chords": "C Dm Am F C G A# Am - F C F C",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды",
@@ -4729,7 +5347,9 @@
     "details": {
       "artist": "Чайф",
       "title": "Завяжи мне глаза",
-      "chords": "Em D Em D C G D Am"
+      "chords": "Em D Em D C G D Am",
+      "chords_count": 8,
+      "complexity": 6
     },
     "tags": [
       "аккорды"
@@ -4743,7 +5363,9 @@
     "details": {
       "artist": "Чайф",
       "title": "Не со мной",
-      "chords": "G Em C D"
+      "chords": "G Em C D",
+      "chords_count": 4,
+      "complexity": 2
     },
     "tags": [
       "аккорды",
@@ -4758,7 +5380,9 @@
     "details": {
       "artist": "Чайф",
       "title": "Никто не услышит",
-      "chords": "C G Am F (G)"
+      "chords": "C G Am F (G)",
+      "chords_count": 5,
+      "complexity": 3
     },
     "tags": [
       "аккорды",
@@ -4773,7 +5397,9 @@
     "details": {
       "artist": "Чайф",
       "title": "Поплачь о нем",
-      "chords": "C G Am G - C G C - F G C Am"
+      "chords": "C G Am G - C G C - F G C Am",
+      "chords_count": 13,
+      "complexity": 11
     },
     "tags": [
       "аккорды"
@@ -4787,7 +5413,9 @@
     "details": {
       "artist": "Чайф",
       "title": "С войны",
-      "chords": "G D Am Em - G D Am C D Em"
+      "chords": "G D Am Em - G D Am C D Em",
+      "chords_count": 11,
+      "complexity": 9
     },
     "tags": [
       "аккорды",
@@ -4802,7 +5430,9 @@
     "details": {
       "artist": "Чайф",
       "title": "Сибирский тракт",
-      "chords": "Am F E - Dm F E"
+      "chords": "Am F E - Dm F E",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды"
@@ -4816,7 +5446,9 @@
     "details": {
       "artist": "Чиж",
       "title": "18 берёз",
-      "chords": "Am Dm E (x4) .. Am Dm G C - Am D H7 E - Dm H7 E Am C"
+      "chords": "Am Dm E (x4) .. Am Dm G C - Am D H7 E - Dm H7 E Am C",
+      "chords_count": 20,
+      "complexity": 18
     },
     "tags": [
       "аккорды",
@@ -4831,7 +5463,9 @@
     "details": {
       "artist": "Чиж",
       "title": "Автобус",
-      "chords": "G D7 H7 .. Em Em7 C D7 .. C D7 (x3) .. Am7 Hm7 C G Am7 D7"
+      "chords": "G D7 H7 .. Em Em7 C D7 .. C D7 (x3) .. Am7 Hm7 C G Am7 D7",
+      "chords_count": 19,
+      "complexity": 17
     },
     "tags": [
       "аккорды"
@@ -4845,7 +5479,9 @@
     "details": {
       "artist": "Чиж",
       "title": "Еду, еду",
-      "chords": "Dm Gm Dm Gm A - Dm Gm Gm* F B Em A Dm - Dm Gm Gm* F B Em Em7 A A7"
+      "chords": "Dm Gm Dm Gm A - Dm Gm Gm* F B Em A Dm - Dm Gm Gm* F B Em Em7 A A7",
+      "chords_count": 24,
+      "complexity": 22
     },
     "tags": [
       "аккорды",
@@ -4860,7 +5496,9 @@
     "details": {
       "artist": "Чиж",
       "title": "О любви",
-      "chords": "D F# Hm G A D"
+      "chords": "D F# Hm G A D",
+      "chords_count": 6,
+      "complexity": 4
     },
     "tags": [
       "аккорды",
@@ -4875,7 +5513,9 @@
     "details": {
       "artist": "Чиж",
       "title": "Полонез",
-      "chords": "E H7 E A C# F#m .. A H7 E H7 .. E H7 E A C# F#m .. A H7 E C# - D6 H7 E D6 H7"
+      "chords": "E H7 E A C# F#m .. A H7 E H7 .. E H7 E A C# F#m .. A H7 E C# - D6 H7 E D6 H7",
+      "chords_count": 29,
+      "complexity": 27
     },
     "tags": [
       "аккорды"
@@ -4889,7 +5529,9 @@
     "details": {
       "artist": "Чиж",
       "title": "Такие дела",
-      "chords": "Am C C* (на 2 лада) E - Am C D E"
+      "chords": "Am C C* (на 2 лада) E - Am C D E",
+      "chords_count": 12,
+      "complexity": 10
     },
     "tags": [
       "аккорды",
@@ -4904,7 +5546,9 @@
     "details": {
       "artist": "Чиж",
       "title": "Улицы",
-      "chords": "Dm A# .. D# A Dm A Dm - D# A Dm A# .. D# A Dm A Dm - D# A Dm A# .. D# A A# A Dm Gm Dm"
+      "chords": "Dm A# .. D# A Dm A Dm - D# A Dm A# .. D# A Dm A Dm - D# A Dm A# .. D# A A# A Dm Gm Dm",
+      "chords_count": 32,
+      "complexity": 30
     },
     "tags": [
       "аккорды"
@@ -4918,7 +5562,9 @@
     "details": {
       "artist": "Чиж",
       "title": "Урал байкер блюз",
-      "chords": "E E7 .. A A7 E A7 .. H7 A7 .. E A H H7"
+      "chords": "E E7 .. A A7 E A7 .. H7 A7 .. E A H H7",
+      "chords_count": 15,
+      "complexity": 13
     },
     "tags": [
       "аккорды",
@@ -4933,7 +5579,9 @@
     "details": {
       "artist": "Чиж",
       "title": "Я нарисую чудо",
-      "chords": "Hm H7 Em F#7 Dm F#7 Hm (G F#7) - Hm B Em F#7"
+      "chords": "Hm H7 Em F#7 Dm F#7 Hm (G F#7) - Hm B Em F#7",
+      "chords_count": 14,
+      "complexity": 12
     },
     "tags": [
       "аккорды"
@@ -4947,7 +5595,9 @@
     "details": {
       "artist": "Элизиум",
       "title": "Как бы все",
-      "chords": "F G C Am (x3) F G"
+      "chords": "F G C Am (x3) F G",
+      "chords_count": 7,
+      "complexity": 5
     },
     "tags": [
       "аккорды"
